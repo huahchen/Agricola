@@ -1,0 +1,126 @@
+Ackerfrohne 
+Serf 
+4+ 
+K 
+Before Sowing: Take or Swap Grain
+Whenever you use the "Sow and bake bread" (Aussaen und Brot backen) action, take 1 grain before the action. Alternatively, you can exchange 1 grain for 1 vegetables.
+
+Akrobat 
+Acrobat 
+4+ 
+K 
+Travelling Players: Extra Action
+Whenever you use the "Travelling Players" (Kleinkunst) action on an Action Space, after all other players have had their turns you may move that person to a free "Plough" (Acker pflugen) or "Take 1 Grain" (1 Getreide nehmen) Action space and take the action.
+
+Ausbilder 
+Educator 
+4+ 
+K 
+Other Player's Occupation: Occupation
+Whenever another player plays an Occupation card, you can pay 3 food to play one yourself. From your 4th Occupation, this only costs 2 food. (If you play an Occupation yourself, you cannot use this card to play a second Occupation.)
+
+Beckenbauer 
+Basin Maker 
+4+ 
+K 
+Points for Wood and Skin Basins
+For each wild boar that you convert into food, you can place up to 2 wood from your personal supply on this card. You receive 1 bonus point for each wood on this card except the 1st, 4th, 7th and 10th.
+
+Bummelstudent
+Lazy Student 
+4+ 
+K 
+Random Occupation: +3 Food
+Whenever you let another player draw one of your Occupation cards for you to play, you receive 3 food before you pay the costs of the card.
+
+Lagerhalter 
+Store Clerk 
+4+ 
+K 
+Big Supply: Extra Resources
+Whenever you have at least 5 Stone at the start of a round, take 1 extra Stone. With 6 Reeds, take 1 Reeds, with 7 Clay take 1 Clay and with 8 Wood take 1 Wood.
+
+Lagerverwalter 
+Storehouse Keeper
+4+ 
+K 
+Reeds and Stone: +1 Clay or Grain
+Whenever you use a person's action to take reeds and stone, you also receive your choice of 1 clay or 1 grain.
+
+Landwirt 
+Countryman 
+4+ 
+K 
+Additional Sowing after Grain/Vegetables
+After all players have placed their Family members, you may move one of your Family members from a "Take 1 Grain" (1 Getreide nehmen) or "Take 1 Vegetable" (1 Gemuse nehmen) Action space to a free "Sowing" (Aussaen) Action space after you have taken the Grain or Vegetables. (2 Claim markers)
+
+Rinderzuchter 
+Cattle Breeder 
+4+ 
+K 
++1 Cattle, Calf after Round 12
+Your cattle also breed at the end of Round 12, if there is place for the calf. When you play this card, you receive 1 cattle.
+
+Schaferknecht 
+Shepherd Boy 
+4+ 
+K 
+Each Round 1 Sheep, with Stone House
+Once you live in a Stone house, place 1 sheep on each remaining Round space. At the start of these rounds, take the sheep. (If you already live in a stone house, place the sheep immediately.)
+
+Schweineflusterer
+Pig Whisperer 
+4+ 
+K 
+3 possible wild boar
+Add 4, 7 and 10 to the current round and place 1 wild boar on each corresponding Round space. At the start of these rounds, take the wild boar..
+
+Steinklopfer 
+Stone Breaker 
+4+ 
+K 
+Renovate to a Stone House Out of Turn
+At any time, you can renovate your Clay hut to a Stone house without using the "Renovation" (Renovierung) Action space. (You must still pay the costs of the renovation.)
+
+Tierarzt 
+Veterinarian 
+4+ 
+K 
+Start of Round: Draw an Animal
+When you play this card, place 4 sheep, 3 wild boar and 2 cattle in a container. At the start of each round, draw two animals. If they are the same, keep one. Return the 1 or 2 animals to the container.
+
+Tierhalter 
+Animal Handler
+4+ 
+K 
+1 Animal of Each Type for Purchase
+Place 1 sheep on the space for Round 7, 1 wild boar on Round 10 and 1 cattle on Round 14. At the start of these Rounds, you can buy the animal for 1 food.
+
+Tierzuchter 
+Animal Breeder 
+4+ 
+K 
+Fences: Buy an Additional Pair of Animals
+When you fence unused spaces to create at least one new pasture, you can buy a pair of animals: 2 sheep for 1 food, 2 wild boar for 2 food or 2 cattle for 3 food.
+
+Vorarbeiter 
+Foreman 
+4+ 
+K 
+At the start of the Work Phase: 1 Food on an Action Space
+At the start of the Work phase, you can place 1 Food from the general supply on an Action space of your choice.
+
+Weber 
+Weaver 
+4+ 
+K 
+2 Sheep in the Farmyard: +1 Food
+Whenever you have at least 2 sheep at the start of the Work phase, you receive 1 food.
+
+Zauberkunstler 
+Magician 
+4+ 
+K 
+Travelling Players: +1 Grain and +1 Food for your Last Person
+Whenever you use your last person to choose the "Travelling Players" (Kleinkunst) action on an Action space, take an additional 1 grain and 1 food.
+

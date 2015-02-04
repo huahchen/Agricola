@@ -1,0 +1,140 @@
+Ackerhandler 
+Land Agent 
+3+ 
+E 
+1 Vegetable: 1 Additional Grain
+Whenever you use the "Take 1 vegetable" Action space, also take 1 grain. When you play this card, take 1 vegetable from the supply.
+
+Akademiker 
+Academic 
+3+ 
+E 
+Counts as 2 Occupations(*)
+This card counts as 2 occupations for Minor Improvements and when scoring the "Reeve" (Vogt) occupation card. (*) changed from 3 by Uwe Rosenberg
+
+Beerensammler
+Berry Picker 
+3+ 
+E 
+Wood: +1 Food
+Whenever you use a family member's action to take wood, take an additional 1 food.
+
+Brotverkaufer 
+Bread Seller 
+3+ 
+E 
+A player Bakes bread: +1 Food
+Take 1 food from the supply for each bread that is baked whenever any player (including you) bakes bread. (To bake, you need a Fireplace (Feuerstelle), Cooking Hearth (Kochstelle), Cooking Corner (Kochecke), Oven (Ofen) or Bakehouse (Backhaus).)
+
+Burstenbinder 
+Brush Maker 
+3+ 
+E 
+Points for Wild boar
+Whenever you convert wild boar to food, place them on this card. At the end of the game, you receive 1/2/3 bonus points for 2/3/4 slaughtered wild boar.
+
+Dachdecker 
+Thatcher 
+3+ 
+E 
+Extending and Renovating: -1 Reeds
+Pay 1 reeds less to build each room, each renovation, and each of the Water mill (Wassermuhle), Half-timbered house (Fachwerkhaus), Chicken coop (Huhnerstall), Holiday home (Ferienhutte), Mansion (Villa) and Corn storehouse (Korndarre).
+
+Drechsler 
+Turner 
+3+ 
+E 
+1 Food per Wood
+You can use the Turner at any time to convert any number of wood to 1 food each.
+
+Fischer 
+Fisherman 
+3+ 
+E 
+Catch Fish: Double Yield
+Whenever you use the "Catch fish" (Fischfang) Action space, you can take twice as many food as are on the space. You then give 1 food each to the owners of the Fishing Rod (Angel), Raft (Floss), Canoe (Kanu), Fish Trap (Reuse) and Landing Net (Kescher).
+
+Freibauer 
+Yeoman Farmer
+3+ 
+E 
+Only lose points for Begging cards and Unused spaces
+At the end of the game, you only lose points in the "Unused spaces" (Ungenutzte Felder) category and for Begging cards.
+
+Gemusehandler
+Greengrocer 
+3+ 
+E 
+To 1 Grain, add 1 Vegetable
+Whenever you use the "Take 1 Grain" (1 Getreide nehmen) Action space, also take 1 vegetable.
+
+Gutsverwalter 
+Estate Manager
+3+ 
+E 
+Points for Largest Herds
+At the end of a 3/4/5 player game, if no player has more animals of any type than you, you receive 2/3/4 bonus points.
+
+Holzhuttenbauer
+Wooden Hut Builder
+3+ 
+E 
+Wooden Hut scored as Clay Hut
+At the end of the game, you receive 1 bonus point for each room in your wooden hut.
+
+Kohler 
+Charcoal Burner
+3+ 
+E 
+When someone builds a Fireplace, Cooking Hearth or Oven: +1 Food, +1 Wood
+Take 1 food and 1 wood whenever any player (including you) builds a Fireplace (Feuerstelle), Cooking Hearth (Kochstelle), Cooking Corner (Kochecke), Baker's Kitchen (Backstube), Bakehouse (Backhaus) or Oven (Ofen).
+
+Prahler 
+Braggart 
+3+ 
+E 
+Points for Improvements
+At the end of the game, you receive 1/3/5/7/9 Bonus points for having 5/6/7/8/9 improvements in front of you.
+
+Rattenfanger 
+Ratcatcher 
+3+ 
+E 
+Other Players' Offspring(*) miss a turn
+In rounds 10 and 12, all other players may not place 1 of their family's offspring (if they have any). (You yourself may place all your family members.) This card may only be played until the end of Round 9. (*) 3rd, 4th and 5th family member are offspring
+
+Schilfsammler 
+Reed Collector 
+3+ 
+E 
+1 Reeds for 4 Rounds
+Place 1 reeds on each of the next 4 Round spaces. At the start of these rounds, you receive the reeds.
+
+Steinhauer 
+Quarryman 
+3+ 
+E 
+2 Food per Stone
+You can use the Quarryman at any time to convert stone to food. For each stone you convert, take 2 food.
+
+Steinschneider 
+Stonecutter 
+3+ 
+E 
+Everything -1 Stone
+All Improvements, rooms and renovations cost 1 stone less.
+
+Topfer 
+Potter 
+3+ 
+E 
+Harvest: 2 Food from 1 Clay
+In each Harvest, the Potter can convert up to 1 clay to 2 food.
+
+Vogt 
+Reeve 
+3+ 
+E 
+3 points for Players with the most Occupations, Wood when played
+Take 1/2/3/4 wood if there are still 1/3/6/9 rounds to play. At the end of the game, players with the most played Occupation cards each receive 3 bonus points.
+

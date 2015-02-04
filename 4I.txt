@@ -1,0 +1,112 @@
+Emporkommling
+Social Climber 
+4+ 
+I 
+Reward for Early Renovation
+Whenever you are the first player to renovate to a clay hut or a stone house, you receive 3 stone. If you are the second, you receive 2 stone; the third, you receive 1 stone. (This is not given retrospectively.)
+
+Getreideschmuser
+Sycophant 
+4+ 
+I 
+A Player takes Grain: 1-2 Food
+Whenever another player uses the "Take 1 Grain" Action space, s/he must first pay you 1 food. In addition, you receive 1 food from the supply, even when you take the grain yourself.
+
+Gruber 
+Clay Digger 
+4+ 
+I 
+Private Clay Pit
+Include the "1 Clay" (1 Lehm) Action card from the 3-player game as an additional clay pit. Immediately place 3 clay on the card and add 1 clay at the start of each round. Any player who uses this action must pay you 3 food.
+
+Hebamme 
+Midwife 
+4+ 
+I 
+Other Player Grows Family Faster: +1 or +2 Food
+Whenever another player has a larger family than you after having offspring, you receive 1 food. If s/he has at least 2 more family members than you, you receive 2 food. (The food is taken from the supply, not from the other player.)
+
+Jongleur 
+Juggler 
+4+ 
+I 
+Travelling Players: Double Food
+Whenever you use the Travelling Players (Kleinkunst) action on an Action space, you can take twice as much food as is on the card. You then give one food each to the Magician (Zauberkunstler), Conjurer (Gaukler), Musician (Strassenmusikant), Puppeteer (Puppenspieler), Acrobat (Akrobat), Dancer (Tanzer) and Storyteller (Geschichtenerzahler).
+
+Puppenspieler 
+Puppeteer 
+4+ 
+I 
+1 Occupation when Other Players Choose Travelling Players (Kleinkunst)
+Whenever another player chooses the "Travelling players" (Kleinkunst) action on an Action space, you can pay 1 food to play an occupation.
+
+Schafflusterer 
+Sheep Whisperer
+4+ 
+I 
+4 Possible Sheep
+Add 4, 7, 9 and 11 to the current round and place 1 sheep on each corresponding Round space. At the start of these rounds, take the sheep.
+
+Schilfaufkaufer 
+Reeds Buyer 
+4+ 
+I 
+Buy 1 Reeds from Another Player
+Whenever reeds are taken for the first time in a round, you may give the player 1 food in exchange for 1 of the reeds. The other player receives an additional 1 food from the supply.
+
+Schweinezuchter
+Pig Breeder 
+4+ 
+I 
++1 Wild Boar, Piglet after Round 12
+Your wild boar also breed at the end of Round 12, if there is place for the piglet. When you play this card, take 1 wild boar.
+
+Schweinsfanger
+Pig Catcher 
+4+ 
+I 
+Wood: 1 Wild Boar instead of 2 Wood
+Whenever you use a person to take wood that is on an Action space, you can leave 2 of the wood on the space and take a wild boar instead.
+
+Stallknecht 
+Groom 
+4+ 
+I 
+Stone House: Each Round 1 Stable for 1 Wood
+Once you have a Stone house, you can build 1 stable at a cost of 1 wood at the beginning of each round, without placing a person.
+
+Steinaufkaufer 
+Stone Buyer 
+4+ 
+I 
+Buy 1 Stone from Another Player
+Whenever another player is the first to take stone in a round, you may give him/her 1 food in exchange for 1 of the stone. S/he receives an additional 1 food from the supply. (The other player cannot refuse this exchange.) (If you are the first player to take stone, you do not get any advantage.)
+
+Strassenmusikant
+Musician 
+4+ 
+I 
+1 Grain when Opponent Uses Travelling Players
+Take 1 grain whenever another player takes the "Travelling Players" (Kleinkunst) action on an Action space.
+
+Vorkoster 
+Taster 
+4+ 
+I 
+For 1 Food, Push In at the Start of the Round
+Whenever another player is the Starting Player, you can pay him/her 1 food at the start of the round and be the first to place a family member. After that, play starts with the Starting player as usual. (If you are the Starting player, you do not get any advantage.)
+
+Vorreiter 
+Outrider 
+4+ 
+I 
+Person on Current Round Card: +1 Grain
+Whenever you use the most recent Round card with one of your people, take 1 additional grain.
+
+Zaunbauer 
+Fencer 
+4+ 
+I 
+Other Players' Fences: +1 or +2 Wood
+Whenever another player builds 1 to 4 fences, take 1 wood from the supply. Whenever another player builds 5 or more fences, take 2 wood. (If you build fences yourself, you receive no benefit.)
+

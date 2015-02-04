@@ -1,0 +1,70 @@
+Dorfschulze 
+Constable 
+3+ 
+K 
+5 Points for Players with No Negative Points, Wood when Played
+If there are still 1/3/6/9 Rounds to play, you immediately receive 1/2/3/4 wood. At the end of the game, any player who has no negative points receives 5 bonus points.
+
+Fabrikant 
+Manufacturer 
+3+ 
+K 
+After Renovation: Craft Cheap Minor Improvement
+Once you have a Clay hut or a Stone house, the Cabinetmaker's (Tischlerei), Pottery (Topferei) and Basket Weaver's (Korbflechterei) are Minor improvements for you and their cost is reduced by 2 resources of your choice.
+
+Gerber 
+Tanner 
+3+ 
+K 
+Points for Animal Skins
+Place wild boar and cattle that you convert into food on this card. At the end of the game, you receive 1/2/3 bonus points for 2/4/6 slaughtered wild boar as well as for 2/3/4 cattle.
+
+Hausmeier 
+House Steward 
+3+ 
+K 
+3 points for Players with the Most Rooms, Wood when Played
+If there are still 1/3/6/9 rounds to play, you immediately receive 1/2/3/4 wood. At the end of the game, players with the most rooms in their home each receive 3 bonus points.
+
+Kannengiesser 
+Hand Waterer 
+3+ 
+K 
+1 Food per Clay, More with Well
+With the Hand Waterer you can convert clay into food at any time. You receive 1 food per clay. If any player has built a Well (Brunnen), you receive 3 food for every 2 clay. (This card also applies to the Village Well (Dorfbrunnen).)
+
+Liebhaber 
+Lover 
+3+ 
+K 
+Immediate Family Growth (Familienzuwachs)
+When you play this card, immediately carry out a "Family growth even without room in the hut or house" (Familienzuwachs auch ohne Platz in Hutte bzw. Haus) action (Similar to the Round card from Stage 5). Playing this card costs you an additional 4 Food.
+
+Reisigbinder 
+Brushwood Collector
+3+ 
+K 
+Wooden Roof, Cheaper Extension
+You may replace the required reeds with 1 wood for any renovation or extension. (You use brushwood to make the roof)
+
+Samenhandler 
+Seed Seller 
+3+ 
+K 
+Instead of 1 Grain, take 2 Grain
+Whenever you use the Action space "Take 1 Grain" (1 Getreide nehmen), take 1 additional grain. When you play this card, take 1 grain.
+
+Schafbauer 
+Sheep Farmer 
+3+ 
+K 
+Sheep: Sheep +1, 1 Cattle and 1 Wild boar for 3 Sheep
+Whenever you take sheep with one of your people, take an additional sheep from the supply. You can exchange 3 sheep for 1 cattle and 1 wild boar at any time (except during the breeding phase).
+
+Schlachter 
+Slaughterman 
+3+ 
+K 
+Another Player Slaughters: +1 Food
+Whenever another player converts animals to food, take 1 food from the supply. In the Feeding phase, you are the last player to play. (If you slaughter, you receive no additional food.)
+

@@ -1,0 +1,70 @@
+Brunnen 
+Well
+3 Stone, 1 Wood
+4 vp
+1 Food for 5 Rounds
+Place 1 food each on the next 5 Round spaces. At the start of these rounds, take the food.
+
+Feuerstelle 
+Fireplace
+2 Clay
+1 vp
+At any time, you may exchange goods for food in the following ratios: 
+Vegetables - 2 Food, Sheep - 2 Food, Wild boar - 2 Food, Cattle - 3 Food. Whenever you use the "Bake bread" (Brot backen) action, you receive 2 Food per grain.
+
+Feuerstelle 
+Fireplace
+3 Clay
+1 vp
+At any time, you may exchange goods for food in the following ratios:
+Vegetables - 2 Food, Sheep - 2 Food, Wild boar - 2 Food, Cattle - 3 Food. Whenever you use the "Bake bread" (Brot backen) action, you receive 2 Food per grain.
+
+Kochstelle 
+Cooking Hearth
+Return Fireplace (Feuerstelle) or 4 Clay
+1 vp
+At any time, you may exchange goods for food in the following ratios:
+Vegetables - 3 Food, Sheep - 2 Food, Wild boar - 3 Food, Cattle - 4 Food, Whenever you use the "Bake bread" (Brot backen) action, you receive 3 Food per grain.
+
+Kochstelle 
+Cooking Hearth
+Return Fireplace (Feuerstelle) or 5 Clay
+1 vp
+At any time, you may exchange goods for food in the following ratios:
+Vegetables - 3 Food, Sheep - 2 Food, Wild boar - 3 Food, Cattle - 4 Food, Whenever you use the "Bake bread" (Brot backen) action, you receive 3 Food per grain.
+
+Korbflechterei 
+Basket Weaver's
+2 Stone, 2 Reeds
+2 vp
+Harvest: 3 Food from 1 Reeds, End of Game: Points for Reeds
+In each Harvest, you can use the Basket Weaver's to convert at most 1 reeds to 3 food. At the end of the game, you receive 1/2/3 bonus points for 2/4/5 reeds.
+
+Lehmofen 
+Clay Oven
+3 Clay, 1 Stone
+2 vp
+Baking: 5 Food from max. 1 Grain
+Whenever you use the "Bake bread" (Brot backen) action, you can turn at most 1 grain into 5 food. When you take this card, you can immediately use the "Bake bread" action.
+
+Steinofen 
+Stone Oven
+3 Stone, 1 Clay
+3 vp
+Baking: 4 Food each from up to 2 Grain
+Whenever you use the "Bake bread" (Brot backen) action, you can turn up to 2 grain into 4 food each. When you take this card, you can immediately use the "Bake bread" action.
+
+Tischlerei
+Cabinet Maker's
+2 Stone, 2 Wood
+2 vp
+Harvest: 2 Food from 1 Wood, End of Game: Points for Wood
+In each Harvest, you can use the Cabinetmaker's to convert at most 1 wood to 2 food. At the end of the game, you receive 1/2/3 bonus points for 3/5/7 wood.
+
+Topferei 
+Pottery
+2 Stone, 2 Clay
+2 vp
+Harvest: 2 Food from 1 Clay, End of Game: Points for Clay
+In each Harvest, you can use the Pottery to convert at most 1 clay to 2 food. At the end of the game, you receive 1/2/3 bonus points for 3/5/7 clay.
+end

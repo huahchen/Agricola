@@ -1,0 +1,1223 @@
+Acker 
+Field 
+E 
+
+1 Food
+
+Plough 1 Field
+When you play this card, immediately plough 1 field. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Angel 
+Fishing Rod 
+E 
+
+1 Wood
+
+Catch Fish: +1 Food, from Round 8 +2 Food
+Whenever you use the "Catch Fish" (Fischfang) Action space, you receive 1 additional food. From Round 8, you receive 2 additional food.
+
+Axt 
+Axe 
+E 
+
+1 Wood, 1 Stone
+
+Cheaper Wooden Hut Rooms
+Whenever you add a room to your Wooden hut, you only pay 2 wood and 2 reeds.
+
+Backofen 
+Baker's oven 
+E 
+
+Return 1 Oven (Ofen) of your choice
+3 vp
+Bake: 5 Food Each from Up To 2 Grain
+Whenever you use the "Bake bread" (Brotbacken) action, you can use the Baker's Oven to convert up to 2 grain into 5 food each. When you play this card, you can also take the "Bake bread" action.
+
+Backtrog 
+Baking Tray 
+E 
+
+1 Wood
+
+Ovens: Minor Improvements and Cheaper 
+Clay Ovens and Stone Ovens are Minor improvements for you. Clay, Stone and Wooden ovens cost you 1 resource (of your choice) less.
+
+Baumaterial 
+Building Material
+E 
+
+
+
+1 Wood or 1 Clay
+Take either 1 wood or 1 clay when you play this card. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Bockmuhle 
+Windmill 
+E 
+
+3 Wood, 1 Stone
+2 vp
+2 Food from Grain
+At any time, you can convert grain to 2 food, without having to bake.
+
+Bohnenfeld 
+Beanfield 
+E 
+2 Occupations
+
+1 vp
+Plant Vegetables on this Card
+When Sowing (Aussaen), you can plant vegetables on this card as though it were a field. (This card does not count as a field when scoring.)
+
+Dreibeinkessel 
+Gypsy's Crock 
+E 
+
+2 Clay
+1 vp
+Convert 2 Goods: +1 Food
+Take 1 additional food whenever you convert 2 goods to food at one time using a Fireplace (Feuerstelle), Cooking Hearth (Kochstelle) or Cooking Corner (Kochecke).
+
+Einfache Feuerstelle
+Simple Fireplace
+E 
+
+1 Clay
+1 vp
+You can exchange goods for food at any time, in the following ratios: 
+Vegetables - 2 food, Sheep - 1 food, Wild boar - 2 food, Cattle - 3 food. Whenever you use the "Bake bread" (Brot backen) action, you receive 2 food per grain.
+
+Fachwerkhaus 
+Half-timbered House
+E 
+
+1 Wood, 1 Clay, 1 Reeds, 2 Stone
+
+Game End: 3 points per Room in Stone House
+At the end of the game you receive 1 bonus point for each room in your Stone house. (In total, you receive 3 points instead of 2 per room.)
+
+Floss 
+Raft 
+E 
+
+2 Wood
+1 vp
+Catch Fish: +1 Food or +1 Reeds
+Whenever you use the "Catch Fish" (Fischfang) Action space, take an additional 1 food or 1 reeds.
+
+Futtertrog 
+Manger 
+E 
+
+2 Wood
+
+Game End: Points for Pastures
+At the end of the game, if your pastures occupy 6/7/8/9+ farmyard spaces, you receive 1/2/3/4 bonus points.
+
+Gehege 
+Animal Pen 
+E 
+4 Occupations
+2 Wood
+1 vp
+2 Food per Round
+Place 2 food on each remaining Round space. At the start of each round, you receive the food.
+
+Gewurze 
+Spices 
+E 
+
+
+
+Vegetables: +1 Food
+Whenever you convert vegetables to food using a Fireplace (Feuerstelle), Cooking Hearth (Kochstelle) or Cooking Corner (Kochecke), take 1 additional food.
+
+Hobel 
+Plane 
+E 
+
+1 Wood
+
+Cabinetmaker's, Sawmill, Cabinetmaker: more Food
+Whenever you turn 1 wood into food using the Cabinetmaker's (Tischlerei), Sawmill (Holzmanufaktur) or Cabinetmaker (Tischler), you receive 1 additional food. You can choose instead to turn a second wood into exactly 2 food.
+
+Holzofen 
+Wooden Oven 
+E 
+3 Occupations
+3 Wood, 1 Stone
+2 vp
+Baking: 3 Food from 1 Grain
+Whenever you use the "Bake bread" (Brot backen) action, you can use the Wooden Oven to turn any number of grain into 3 food each. When you play this card, you can also take the "Bake bread" action.
+
+Holzpantoffel 
+Clogs 
+E 
+
+1 Wood
+
+Game end: Points for Clay Hut and Stone House
+At the end of the game, you receive 1 bonus point for a clay hut, or two for a stone house.
+
+Hornflote 
+Shepherd's Pipe 
+E 
+Have 1+ Sheep
+
+
+Pastures, Stables: hold more Sheep
+You can hold up to 2 additional sheep on each of the pastures where you keep sheep. In unfenced stables, you can keep up to 2 sheep.
+
+Kanu 
+Canoe 
+E 
+2 Occupations
+2 Wood
+1 vp
+Catch Fish: +1 Food and +1 Reeds
+Whenever you use the "Catch Fish" (Fischfang) Action space, you receive an additional 1 food and 1 reeds.
+
+Karpfenteich 
+Carp Pond 
+E 
+2 Occupations and 1 Improvement
+
+1 vp
+1 Food every 2 Rounds
+Place 1 food on each remaining oddnumbered Round space. At the start of these rounds, take the food.
+
+Kartoffelstecher
+Potato Dibber 
+E 
+
+1 Wood
+
+Sow: Vegetable Fields +1
+Whenever you sow fields with vegetables, place 1 additional vegetable on each newly sown field.
+
+Keramik 
+Ceramics 
+E 
+1 Oven (Ofen)
+1 Clay
+
+Pottery Free Minor Improvement, +2 Food
+When you play this card, you receive 2 food. From now, the Pottery (Topferei) is a Minor Improvement for you and costs you nothing.
+
+Korb 
+Basket 
+E 
+
+1 Reeds
+
+Wood: 3 Food for 2 Wood
+Whenever you use a person's action to take wood, you can leave 2 of the wood on the Action space and receive 3 food in exchange.
+
+Kornschaufel 
+Corn Scoop 
+E 
+
+1 Wood
+
+Take Grain: +1 Grain
+Whenever you use the "Take 1 grain" (1 Getreide nehmen) Action space, you receive 1 additional grain.
+
+Lehmdach 
+Clay Roof 
+E 
+1 Occupation
+
+1 vp
+Extending and Renovating: Clay instead of Reeds
+You can replace 1 or 2 reeds with the same amount of clay whenever you extend or renovate your home.
+
+Lehmstake 
+Clay Supports 
+E 
+
+2 wood
+
+Cheaper Clay Hut Rooms
+Whenever you add a room to your clay hut, you can pay 2 clay, 1 wood and 1 reeds instead of 5 clay and 2 reeds.
+
+Marienfigur 
+Madonna Statue
+E 
+Remove 2 played Improvements
+
+2 vp
+2 Points for 2 Improvements
+The Madonna Statue has no effect. (You must remove improvements that are on the table in front of you. You may not discard cards from your hand. It is irrelevant whether you remove Major or Minor Improvements.)
+
+Marktstand 
+Market Stall 
+E 
+
+1 Grain
+
+1 Vegetable
+When you play this card, you receive 1 vegetable. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Miniweide 
+Mini Pasture 
+E 
+
+
+
+Fence a Single-space Pasture
+When you play this card, immediately fence one space in your farmyard. (You do not need to pay wood for the fences.) After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Muhlstein 
+Millstone 
+E 
+
+1 Stone
+
+Baking: +2 Food
+Whenever you bake 1 or more loaves of bread, take 2 additional food.
+
+Nachbarschaft shilfe
+Helpful Neighbours
+E 
+
+1 Wood or 1 Clay
+
+1 Stone or 1 Reeds
+When you play this card, take either 1 stone or 1 reeds. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Obstbaum 
+Fruit Tree 
+E 
+3 Occupations
+
+1 vp
+1 Food per Round (Rounds 8 to 14)
+Place 1 food on each remaining Round space for rounds 8 to 14. At the start of these rounds, you receive the food.
+
+Plumpsklo 
+Outhouse 
+E 
+Build this early!
+1 Wood, 1 Clay
+2 vp
+Build this early!
+The Outhouse has no effect. You can only build it if at least one other player has fewer than 2 occupations. (It is irrelevant how many occupations you have played.)
+
+Privatforst 
+Private Forest 
+E 
+
+2 Food
+
+1 Wood every two Rounds
+Place 1 wood on each remaining evennumbered Round space. At the start of these rounds, take the wood.
+
+Sackkarre 
+Sack Cart 
+E 
+2 Occupations
+2 Wood
+
+1 Grain, four times
+Place 1 grain each on the spaces for rounds 5,8,11 and 14. At the start of these rounds, take the grain.
+
+Salatfeld 
+Lettuce Patch 
+E 
+3 Occupations
+
+1 vp
+Valuable Vegetables
+On this card, you can plant vegetables as you would on a field. Vegetables on this field can be converted to 4 food when harvested. (This card does not count as a field when scoring.)
+
+Schilfteich 
+Reed Pond 
+E 
+3 Occupations
+
+1 vp
+1 Reeds for 3 Rounds
+Place 1 Reeds each on the next 3 remaining Round spaces. At the start of each round, you receive the reeds.
+
+Schreibpult 
+Writing Desk 
+E 
+2 Occupations
+1 Wood
+1 vp
+Occupation: Second Occupation for 2 Food
+Whenever you use an "Occupation" (Ausbildung) Action space, you may play 2 occupations one after another. The second occupation costs you 2 food.
+
+Spachtel 
+Builder's Trowel
+E 
+
+1 Wood
+
+Renovate to Clay Hut at any time
+You can renovate your Wooden hut to a Clay hut at any time, without using the "Renovate" (Renovierung) action. (You must still pay for the Renovation).
+
+Spinnrocken 
+Spindle 
+E 
+
+1 Wood
+
+Sheep: Food
+Whenever you have 3 (5) sheep during the Field phase of a Harvest, you receive 1 (2) additional Food.
+
+Stall 
+Stable 
+E 
+
+1 Wood
+
+Build 1 Stable Cheaply
+When you play this card, immediately build 1 stable. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Stampfbutterfass
+Butter Churn 
+E 
+
+2 Wood
+
+Sheep and Cattle: Food
+Whenever you have sheep during the Field phase of a Harvest, you receive 1 food for each third sheep. Whenever you have cattle during the Field phase, you receive 1 food for each second cattle.
+
+Steinbruch 
+Quarry 
+E 
+4 Occupations
+
+2 vp
+Day Labourer: +3 Stone
+Whenever you use the "Day Labourer" (Tagelohner) Action space, you receive an additional 3 stone.
+
+Steinhausanbau
+Stone House Extension
+E 
+
+1 Reeds, 3 Stone
+
+Extend Stone House Cheaply
+When you play this card, immediately extend your stone house by 1 room. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Steinklaue 
+Stone Tongs 
+E 
+
+1 wood
+
+Stone: Stone +1
+Whenever you use one of the "Stone" (Stein) Action spaces, that become available in Rounds 5-7 and10-11, you receive 1 additional stone.
+
+Taubenschlag 
+Dovecote 
+E 
+
+2 Stone
+2 vp
+1 Food in Rounds 10 to 14
+Place 1 Food each on the spaces for rounds 10 to 14. At the start of these rounds, take the food.
+
+Tierhof 
+Animal Yard 
+E 
+1 Occupation
+2 Wood
+1 vp
+Pasture for Any 2 Animals
+Place up to two animals of your choice on this card. They need not be the same type of animal. (This card does not count as a Pasture for scoring)
+
+Tranke 
+Drinking Trough
+E 
+
+2 Wood
+1 vp
+Pastures hold +2 Animals
+Each Pasture (with or without a stable) can hold up to 2 more animals.
+
+Viehmarkt 
+Cattle Market 
+E 
+
+1 Sheep
+
+1 Cattle
+When you play this card, take 1 cattle. After you play this card, pass it to the player on your left, who adds it to his/her hand
+
+Wagenpflug 
+Vehicular Plough
+E 
+3 Occupations
+4 Wood
+
+Plough 3 Fields, Twice
+Twice during the game, when you use either the "Plough Fields" (Acker pflugen) or "Plough Fields and Sow" (Acker pflugen und Aussaen) action, you can plough 3 fields instead of 1.
+
+Wendepflug 
+Turnwrest Plough
+E 
+2 Occupations
+3 Wood
+
+Plough 3 Fields, Once
+Once during the game, when you use either the "Plough Fields" (Acker pflugen) or "Plough Fields and Sow" (Acker pflugen und Aussaen) action, you can plough 3 fields instead of 1.
+
+Abstechpflug 
+Breast Plough 
+I 
+1 Occupation
+2 Wood
+
+Plough 2 Fields, Twice
+Twice during the game, when you use the "Plough field" (Acker pflugen) Action space, you may plough 2 fields instead of 1. This does not apply to the "Plough fields and Sow" (Acker pflugen und Aussaen) Action.
+
+Almosen 
+Alms 
+I 
+No Occupations
+
+
+1 Food per Completed Round
+When you play this card, take 1 food for each completed round of the game. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Backstube 
+Baker's Kitchen 
+I 
+Return 1 Oven (Ofen) of your choice
+2 Stone
+4 vp
+Bake: 5 Food Each from Up To 2 Grain
+Whenever you use the "Bake bread" (Brot backen) action, you can use the Baker's Kitchen to convert up to 2 grain into 5 food each. When you play this card, you can also take the "Bake bread" action.
+
+Dorfbrunnen 
+Village Well 
+I 
+Return Well (Brunnen)
+
+5 vp
+1 Food for 3 Rounds
+Place 1 food each on the next 3 remaining Round spaces. At the start of these rounds, take the food.
+
+Dreschschlitten 
+Threshing Board
+I 
+2 Occupations
+2 Wood
+1 vp
+Plough: Bake Bread
+Whenever you use the "Plough fields" (Acker pflugen) or "Plough fields and Sow" (Acker pflugen und Aussaen) actions, you can also take the "Bake bread" action.
+
+Egge 
+Harrow 
+I 
+
+2 Wood
+
+Plough Fields: +1 Field
+Once during the game, when you use one of the two "Plough fields" (Acker pflugen) Action spaces, you can plough 2 fields instead of 1. Each other player can also do this once during the game, but must pay you 2 food.
+
+Erdbeerbeet 
+Strawberry Patch
+I 
+2 Vegetable Fields
+
+2 vp
+1 Food for 3 Rounds
+Place 1 food on each of the next 3 Round spaces. At the start of these rounds, take the food.
+
+Erdstampfer 
+Punner 
+I 
+
+1 Wood
+
+Other player ploughs with Harrow or Plough: +1 Field
+Whenever another player uses the Harrow (Egge) or a Plough (-Pflug), you can immediately plough 1 field as well. (If you use the Harrow or a Plough yourself, you do not get any advantage.)
+
+Ferienhutte 
+Holiday House 
+I 
+
+3 Wood, 2 Reeds or 3 Clay, 2 Reeds
+8 vp
+8 points by not placing people in Round 14
+In Round 14, you cannot place your People (Prepare to play two Harvests in a row.) Play this card at the latest during Round 13. (Placing this card bans you from placing people in Round 14.)
+
+Ganseteich 
+Goose Pond 
+I 
+3 Occupations
+
+1 vp
+1 Food for 4 Rounds
+Place 1 food each on the next 4 remaining Round spaces. At the start of these rounds, take the food.
+
+Gast 
+Guest 
+I 
+
+2 Food
+
+Extra Person in the next Round
+When you play this card, you receive a Guest token, which you may place once in the next round as you would a person. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Getreidefuhre 
+Grain Cart 
+I 
+2 Occupations
+2 Wood
+
+Take Grain: +2 Grain
+Whenever you use the "Take Grain" (Getreide nehmen) Action space, take 2 additional grain.
+
+Handmuhle 
+Hand Mill 
+I 
+
+1 Stone
+
+Harvest: Turn Grain into Food
+During the Feeding phase of the Harvest, you can use the Hand Mill to turn either 1 grain into 2 food or 2 grain into 4 food.
+
+Harke 
+Rake 
+I 
+
+1 Wood
+
+Game End: 2 Points for Fields
+At the end of the game, you receive 2 Bonus points if you have at least 5 fields. If you have played a Plough (Pflug), Harrow (Egge), Punner (Erdstampfer) or Yoke (Joch), you require at least 6 fields.
+
+Hirtenstab 
+Shepherd's Crook
+I 
+
+1 Wood
+
+Big Pastures: +2 Sheep
+Whenever you fence a new pasture that covers at least 4 farmyard spaces, take 2 sheep and place them in the new pasture.
+
+Holzacker 
+Copse 
+I 
+1 Occupation
+2 Wood
+1 vp
+Plant 2 Wood on this Card
+When you Sow, you can plant up to 2 wood on this card as though you were planting grain in 2 fields. (This card does not count as a field when scoring.)
+
+Holzfuhre 
+Wood Cart 
+I 
+3 Occupations
+3 Wood
+
+Wood: +2 Wood
+Whenever you use a person to take wood that is on an Action space, take 2 additional wood.
+
+Holzgarten 
+Spinney 
+I 
+3 Occupations
+1 Wood
+1 vp
+Other Players' Wood: 1 is For You
+Whenever another player uses the "3 Wood" (3 Holz) Action space, s/he must give you one of the wood. (This does not apply to the "4 Wood" (4 Holz) Action space in the 5-player game).
+
+Holzhuttenanbau
+Wooden Hut Extension
+I 
+
+1 Reeds, 5 Wood
+
+Extend Wooden Hut Cheaply
+When you play this card, immediately extend your wooden hut by 1 room. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Holzkran 
+Wooden Crane 
+I 
+
+3 Wood
+1 vp
+Stone: +1 or +2 Stone
+Whenever you use one of the "Stone" (Stein) Action spaces that are placed in Rounds 5-7 and 10-11, take 1 additional stone. If you pay 1 food, you can take 2 stone instead of 1.
+
+Holzweg 
+Wooden Path 
+I 
+
+1 Wood
+
+Most Valuable Street: 2 Points
+The player with the most valuable street receives 2 Bonus points when scoring. (The Paved Road that costs 5 stone is more valuable than the Clay Path that costs 3 clay. And the Clay path is more valuable than this Wooden Path.)
+
+Huhnerstall 
+Chicken Coop 
+I 
+
+2 Wood, 1 Reeds or 2 Clay, 1 Reeds
+1 vp
+1 Food for 8 Rounds
+Place 1 food each on the next 8 remaining Round spaces. At the start of these rounds, take the food.
+
+Kochecke 
+Cooking Corner 
+I 
+Return Cooking Hearth (Kochstelle)
+
+3 vp
+You can change goods to food at any time, in the following ratios:
+Vegetables - 4 food, Sheep - 2 food, Wild boar - 3 food, Cattle - 4 food. Whenever you use the "Bake bread" (Brot backen) action, you receive 3 food per grain.
+
+Korndarre 
+Corn Storehouse
+I 
+
+2 wood, 1 Reeds or 2 Clay, 1 Reeds
+1 vp
+Field phase: Sow Grain
+Whenever you have empty fields after the Field phase of the Harvest, you can sow grain in them. Place 1 fewer grain on these fields.
+
+Krug 
+Flagon 
+I 
+
+1 Clay
+
+Well: Food
+Whenever the Well is built or upgraded to a Village Well, the other players receive 1 food each and you receive 4 food. (If the Well has already been built, everyone receives the food when the Flagon is played.)
+
+Lasso 
+Lassoo 
+I 
+
+1 Reeds
+
+Sheep, Wild Boar, Cattle: Place a second Person
+You can place two people immediately after one another, if at least one of them uses a "Wild Boar", "Cattle" or "Sheep" Action space. (This does not apply to the "Either 1 Sheep and 1 Food or 1 Wild Boar ..." Action space from the 5-player game.)
+
+Lehmzufahrt 
+Clay Path 
+I 
+
+3 Clay
+1 vp
+Most Valuable Street: 2 Points
+The player with the most valuable street receives 2 Bonus points when scoring. (The Paved Road that costs 5 stone is more valuable than this Clay Path. And the Clay Path is more valuable than the Wooden Path that costs 1 Wood.)
+
+Lehnbeet 
+Planter Box 
+I 
+2 Occupations
+
+
+Sowing: +2 Grain, +1 Vegetable if Field is beside hut
+Whenever you sow, each newly planted field that is orthogonally adjacent to a room in your home gets an additional 2 grain or 1 vegetable.
+
+Leiter 
+Ladder 
+I 
+
+2 Wood
+
+Extending and Renovating: -1 Reeds
+You need 1 less reeds to extend or renovate your home or to build the Water Mill (Wassermuhle), Half-Timbered House (Fachwerkhaus), Chicken Coop (Huhnerstall), Holiday Home (Ferienhutte), Mansion (Villa) or Corn Storehouse (Korndarre).
+
+Mist 
+Manure 
+I 
+2 Animals
+
+
+Harvest at the End of Each Round
+You can take 1 grain/1 vegetables from each of your fields at the end of each round, even if it does not end with a Harvest. (If you harvest, you must harvest all your fields.)
+
+Molkerei 
+Milking Shed 
+I 
+
+3 Stone, 2 clay
+2 vp
+Sheep and Cattle: Food
+In each Harvest, at the beginning of the Field phase, count the number of sheep and cattle on all the players' farmyards. Take 1 food for each fifth sheep and for each third cattle.
+
+Pflasterauffahrt
+Paved Road 
+I 
+
+5 Stone
+2 vp
+Most Valuable Street: 2 Points
+The player with the most valuable street receives 2 Bonus points when scoring. (This Paved Road is more valuable than the Clay Path that costs 3 clay. And the Clay Path is more valuable than the Wooden Path that costs 1 wood.)
+
+Reuse 
+Fish Trap 
+I 
+
+1 Wood
+
+Catch Fish or Reeds: +1 Food
+Whenever you use the "Catch Fish" (Fischfang) Action space or receive reeds from an Action space, you receive 1 additional food.
+
+Schilftausch 
+Reed Exchange 
+I 
+
+2 Wood or 2 Clay
+
+2 Reeds
+When you play this card, you receive 2 reeds. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Schlachthof 
+Slaughter House 
+I 
+
+2 Stone, 2 Clay
+2 vp
+Another Player Slaughters: +1 Food
+Whenever another player turns 1 or more animals into food, take 1 food from the supply. During the Feeding phase of the Harvest, you are the last player to take a turn. (If you slaughter, you receive no advantage.)
+
+Schnapsbrennerei
+Schnaps Distillery
+I 
+
+1 Veggie, 2 Stone
+2 vp
+Harvest: 4 Food from Vegetable, Game End: Bonus Points
+During the Feeding phase of the Harvest, you can use the Schnaps Distillery to convert at most 1 vegetable into 4 food. At the end of the game, you receive 1 Bonus point each for your 5th and 6th vegetables.
+
+Strohdach 
+Thatched Roof 
+I 
+3 Grain fields
+
+1 vp
+Extending and Renovating: No Reeds
+You no longer need reeds when you extend or renovate your home.
+
+Taverne 
+Tavern 
+I 
+
+2 Wood, 2 Stone
+2 vp
+Action space: 3 Food
+The Tavern is an additional Action space. Whenever another player uses it, s/he receives 3 food. Whenever you use it, you can choose either to take 3 food or to score 2 bonus points. (If another player uses the Tavern, you do not take anything from it.)
+
+Tierfutter 
+Animal Feed 
+I 
+4 Planted Fields
+
+
+Game End: Animal types that you own, +1
+Immediately before scoring, take 1 additional animal of each type that you already have. (This does not apply to the House Goat (Hausziege) and the Horse (Pferd).)
+
+Tiergarten 
+Wildlife Reserve 
+I 
+2 Occupations
+2 Wood
+1 vp
+Pasture for 1 Sheep, 1 Wild Boar and 1 Cattle
+This card can hold up to 1 sheep, 1 wild boar and 1 cattle. (This card does not count as a pasture when scoring.)
+
+Wassermuhle 
+Water Mill 
+I 
+
+1 Wood, 2 Clay, 1 Reeds, 2 Stone
+2 vp
+Harvest: 3 Food from Grain
+After the Field phase of a Harvest, each player can use the Water Mill to convert up to 1 grain to 3 food. Each player that uses the Water Mill must give you 1 of the food.
+
+Wochenmarkt 
+Weekly Market 
+I 
+
+3 Grain
+
+2 Vegetables
+When you play this card, you receive 2 vegetables. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Ackerflache 
+Acreage 
+K 
+1 Occupation
+
+
+Plant 2 Grain on this Card
+When you Sow, you can plant 2 grain fields on this card. (This card does not count as a field when scoring.)
+
+Backhaus 
+Bakehouse 
+K 
+Return 1 Oven (Ofen) of your choice
+3 Stone
+5 vp
+Bake: 5 Food each from up to 2 Grain 
+Whenever you use the "Bake bread" (Brot backen) action, you can use the Bakehouse to convert up to 2 grain into 5 food each. When you play this card, you can also take the "Bake bread" action.
+
+Bauholz 
+Lumber 
+K 
+
+1 Stone
+
+3 Wood
+When you play this card, you receive 3 wood. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Bienenstock 
+Beehive 
+K 
+2 Improvements and 3 Occupations
+
+1 vp
+2 Food every 2nd Round
+Place 2 Food on each remaining evennumbered Round space. At the start of these rounds, you take the food. 
+
+Bratspiess 
+Spit Roast 
+K 
+
+1 Wood
+
+Feeding phase: +1 Food from Animals 
+Whenever you convert at least 1 animal to food during the Feeding phase of the Harvest, take 1 additional food.
+
+Brauerei 
+Brewery 
+K 
+
+2 Grain, 2 Stone
+2 vp
+Harvest: 3 Food from Grain, Game End: Bonus Point
+During the Feeding phase of the Harvest, you can use the Brewery to convert at most 1 grain to 3 food. At the end of the game, you receive 1 Bonus point for your ninth grain.
+
+Brotschieber 
+Bread Paddle 
+K 
+
+1 Wood
+
+Occupation: Bake bread
+Whenever you play an Occupation, you may also take the "Bake bread" action.
+
+Bucherregal 
+Bookshelf 
+K 
+3 Occupations
+1 Wood
+1 vp
+Additional Occupation: +3 Food
+Whenever you play 1 Occupation, take 3 Food before you pay the costs of the Occupation.
+
+Dreschflegel 
+Flail 
+K 
+1 Occupation
+1 Wood
+
+Plough: Bake bread
+Whenever you use the "Acker pflugen" (Plough fields) or "Plough fields and sow" (Acker pflugen und Aussaen) actions, you can also take the "Bake bread" action.
+
+Ententeich 
+Duck Pond 
+K 
+2 Occupations
+
+1 vp
+1 Food for 3 Rounds
+Place 1 food on each of the next 3 Round spaces. At the start of these rounds, take the food.
+
+Furchenpflug 
+Furrowing Plough
+K 
+3 Occupations
+3 Wood
+
+Plough 3 Fields, Twice
+Twice during the game, when you use the "Plough Fields" (Acker pflugen) Action space, you can plough 3 fields instead of 1. The Furrowing Plough cannot be used with the "Plough Fields and Sow" (Acker pflugen und Aussaen) action.
+
+Getreidespeicher
+Granary 
+K 
+
+3 Wood or 3 Clay
+1 vp
+1 Grain, 3 Times
+Place 1 grain each on the spaces for rounds 8, 10 and 12. At the start of these rounds, you receive the grain.
+
+Gewachshaus 
+Greenhouse 
+K 
+1 Occupation
+2 Wood
+1 vp
+1 Vegetable for 1 Food, Twice
+Add 4 and 7 to the current round and place 1 vegetable on each corresponding Round space. At the start of these rounds, you can pay 1 food to take the vegetable.
+
+Gulle 
+Liquid Fertiliser 
+K 
+4 animals
+
+
+Sow: +1 Goods
+Whenever you sow, place 1 additional grain or vegetable on each newly planted field.
+
+Hakenpflug 
+Hook Plough 
+K 
+1 Occupation
+3 Wood
+
+Plough 3 Fields, Once
+Once during the game, when you use the "Plough fields" (Acker pflugen) Action space, you can plough 3 fields instead of 1. This does not apply to the "Plough fields and Sow" (Acker pflugen und Aussaen) Action space.
+
+Hausziege 
+House Goat 
+K 
+
+
+1 vp
+Feeding phase: +1 Food
+In each Feeding phase, you receive 1 food. Apart from the goat, you cannot hold any other animal in your home. (Even if you have the Animal tamer (Tierzahmer).)
+
+Holzbock 
+Sawhorse 
+K 
+
+2 Wood
+
+Free Stable and Fences
+The next stable you place in your farmyard, as well as your 3rd, 6th, 9th, 12th and 15th fence, costs you nothing.
+
+Holzmanufaktur
+Sawmill 
+K 
+Return Cabinet maker's
+
+3 vp
+Harvest: 3 Food from 1 Wood, End of Game: Points for Wood
+In each Harvest, you may convert up to 1 wood to 3 food. At the end of the game, you receive 1/2/3 bonus points for 2/4/5 wood. (A repurchased Cabinet maker's does not give any additional Victory Points)
+
+Holzschatulle 
+Wooden Strong-box
+K 
+
+1 Wood
+
+Game End: 2 (4) Points for 5 (6+) Rooms
+At the end of the game, you get 2 bonus points if your home contains 5 rooms, or 4 bonus points if you have 6 or more rooms.
+
+Joch 
+Yoke 
+K 
+1 Cattle 
+1 Wood
+
+Plough 1 Field per Plough (-Pflug) and Harrow (Egge)
+When you play this card, you can immediately plough 1 field for each Plough or Harrow that has been played (by any player).
+
+Kehrbesen 
+Broom 
+K 
+
+1 Wood
+
+7 new Improvements, play 1
+Discard all the remaining minor Improvements in your hand, and draw 7 new minor Improvements. You can play 1 more minor Improvement immediately. (You must pay the costs of the new Improvement and, where appropriate, meet the conditions for playing it.)
+
+Kescher 
+Landing Net 
+K 
+
+1 Reeds
+
+Reeds: +2 Food or +1 Food
+Whenever you receive reeds on an Action space, you receive an additional 2 food. This is reduced to 1 food if you receive other goods as well as reeds. (In a 4 or 5 player game, a player can receive stone and food or wood as well as reeds on one Action space.)
+
+Klapper 
+Clapper 
+K 
+
+1 wood
+
+Offspring: 1 Grain on Grain Fields
+Whenever you use a "Family growth" Action space (or already have a person on the space when you play the Clapper), place 1 additional grain on any of your fields that already contains at least 1 grain.
+
+Kochstelle 
+Cooking Hearth 
+K 
+Return 1 Fireplace (Feuerstelle)
+
+1 vp
+You can change goods to food at any time, in the following ratios:
+Vegetables - 3 food, Sheep - 2 food, Wild boar - 3 food, Cattle - 4 food. Whenever you use the "Bake bread" (Brot backen) action, you receive 3 food per grain.
+
+Korngarbe 
+Corn Sheaf 
+K 
+
+
+
+1 Grain 
+When you play this card, take 1 grain. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Krautergarten 
+Herb Garden 
+K 
+1 Vegetable field
+
+1 vp
+For 5 Rounds, 1 Food
+Place 1 food on each of the next 5 Round spaces. At the start of each round, take the food.
+
+Lehmgrube 
+Clay Pit 
+K 
+3 Occupations
+
+1 vp
+Day Labourer: +3 Clay
+Whenever you use the "Day Labourer" (Tagelohner) Action space, take 3 additional clay.
+
+Lehmhuttenanbau
+Clay Hut Extension
+K 
+
+1 Reeds, 4 Clay
+
+Extend Clay Hut Cheaply
+When you play this card, immediately extend your Clay hut by 1 room. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Melkschemel 
+Milking Stool 
+K 
+2 Occupations
+1 Wood
+
+Cattle: Food, Game End: Points for Cattle
+Whenever you have 1/3/5 cattle during the Field phase of a Harvest, take 1/2/3 food. At the end of the game, you receive 1 bonus point for every 2 cattle.
+
+Ochsengespann
+Ox Harness 
+K 
+2 Cattle 
+3 Wood
+1 vp
+Plough up to 3 Fields
+When you play this card, count how many complete rounds are left to be played. You can plough this many fields, up to a maximum of 3.
+
+Pferd 
+Horse 
+K 
+
+
+
+Game End: Replaces Missing Animal
+At the end of the game, the horse replaces one missing type of animal. (You receive one point instead of losing one.)
+
+Reisigdach 
+Brushwood Roof
+K 
+2 Occupations
+
+1 vp
+Extending and Renovating: Wood replaces Reeds
+Whenever you extend or renovate your home, you can replace 1 or 2 reeds with the same amount of wood.
+
+Rubenacker 
+Turnip Field 
+K 
+3 Occupations
+
+1 vp
+Plant Vegetables on this Card 
+When you Sow, you can plant vegetables on this card as you would on a field. When you play this card, you can also carry out the "Sow" action. (This card does not count as a field when scoring.)
+
+Schilfhutte 
+Reed Hut 
+K 
+
+4 Reeds, 1 Wood
+1 vp
+Additional Person
+Place one family member token that you have not yet brought into the game onto this card, which it will live on for the rest of the game. It can be used to take actions and must be fed, but is not worth any points. (You can move this person into your home later, using a "Family growth" action.)
+
+Schlafecke 
+Sleeping Corner 
+K 
+2 Grain fields
+1 Wood
+1 vp
+Family Growth: Always Possible
+You can use any "Family Growth" Action space, even if another player has already placed a person there.
+
+Schwanensee 
+Swan Lake 
+K 
+4 Occupations
+
+2 vp
+1 Food for 5 Rounds
+Place 1 food each on the next 5 remaining Round spaces. At the start of these rounds, take the food.
+
+Schweinezucht 
+Boar Breeding 
+K 
+
+1 Food
+
+1 Wild Boar
+When you play this card, take 1 wild boar. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Steinkarre 
+Stone Cart 
+K 
+2 Occupations
+2 Wood
+
+1 Stone every 2nd Round
+Place 1 stone on all remaining even-numbered Round spaces. At the start of these rounds, you take the stone.
+
+Steintausch 
+Stone Exchange 
+K 
+
+2 Wood or 2 Clay
+
+2 Stone
+When you play this card, take 2 stone. After you play this card, pass it to the player on your left, who adds it to his/her hand.
+
+Villa 
+Mansion 
+K 
+
+2 Reeds, 3 Wood, 3 Clay, 3 Stone
+
+Game end: 4 points per Room in Stone House
+At the end of the game, you receive 2 bonus points for each room in your Stone house. (In total, you receive 4 instead of 2 points per room.)
+
+Waldweide 
+Forest Pasture 
+K 
+3 Occupations
+
+1 vp
+Pasture for Wild Boar
+This card can hold an unlimited number of Wild Boar. (This card does not count as a pasture when scoring.)
+
+Webstuhl 
+Loom 
+K 
+2 Occupations
+2 wood
+1 vp
+Sheep: Food, Game End: Points for Sheep
+Whenever you have 1/4/7 sheep during the Field phase of a Harvest, take 1/2/3 food. At the end of the game, you receive 1 bonus point for every 3 sheep.

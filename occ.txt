@@ -1,0 +1,1098 @@
+Ackerhandler 
+Land Agent 
+3+ 
+E 
+1 Vegetable: 1 Additional Grain
+Whenever you use the "Take 1 vegetable" Action space, also take 1 grain. When you play this card, take 1 vegetable from the supply.
+
+Akademiker 
+Academic 
+3+ 
+E 
+Counts as 2 Occupations(*)
+This card counts as 2 occupations for Minor Improvements and when scoring the "Reeve" (Vogt) occupation card. (*) changed from 3 by Uwe Rosenberg
+
+Backaltester 
+Master Baker 
+4+ 
+E 
+Bake when Another Player Bakes
+Whenever another player bakes, you can bake if you have a Baking improvement. If you take a Bake action yourself (not using this card), take 1 additional food.
+
+Backer 
+Baker 
+1+ 
+E 
+May Bake during Harvest
+During each Harvest, you may Bake bread at the start of the Feeding phase if you have a Baking improvement. When you play this card, you may Bake bread as an additional action.
+
+Baumeister 
+Architect 
+1+ 
+E 
+Free 6th Room
+Once during the game, at any time after your home reaches at least 5 rooms, you may extend it by 1 room at no cost.
+
+Beerensammler
+Berry Picker 
+3+ 
+E 
+Wood: +1 Food
+Whenever you use a family member's action to take wood, take an additional 1 food.
+
+Bettelmonch 
+Mendicant 
+1+ 
+E 
+Discard 2 Begging cards
+At the end of the game, you can discard up to 2 Begging cards without losing points for them.
+
+Braumeister 
+Master Brewer 
+1+ 
+E 
+Harvest: 3 Food From 1 Grain
+In the Feeding phase of each Harvest, the Master Brewer can convert up to 1 grain to 3 food.
+
+Brotverkaufer 
+Bread Seller 
+3+ 
+E 
+A player Bakes bread: +1 Food
+Take 1 food from the supply for each bread that is baked whenever any player (including you) bakes bread. (To bake, you need a Fireplace (Feuerstelle), Cooking Hearth (Kochstelle), Cooking Corner (Kochecke), Oven (Ofen) or Bakehouse (Backhaus).)
+
+Burstenbinder 
+Brush Maker 
+3+ 
+E 
+Points for Wild boar
+Whenever you convert wild boar to food, place them on this card. At the end of the game, you receive 1/2/3 bonus points for 2/3/4 slaughtered wild boar.
+
+Dachdecker 
+Thatcher 
+3+ 
+E 
+Extending and Renovating: -1 Reeds
+Pay 1 reeds less to build each room, each renovation, and each of the Water mill (Wassermuhle), Half-timbered house (Fachwerkhaus), Chicken coop (Huhnerstall), Holiday home (Ferienhutte), Mansion (Villa) and Corn storehouse (Korndarre).
+
+Drechsler 
+Turner 
+3+ 
+E 
+1 Food per Wood
+You can use the Turner at any time to convert any number of wood to 1 food each.
+
+Familienoberhaupt
+Head of the Family
+4+ 
+E 
+Building and Family Growth Always Possible
+You can use any Building or Family growth (Familienzuwachs) Action space, even if another player has already placed a person on it.
+
+Farmer 
+Farmer 
+4+ 
+E 
+Fences: +1 Animal
+The next time you build fences, take 1 wild boar. Each time you build at least 1 fence after that, take 1 cattle marker.
+
+Fischer 
+Fisherman 
+3+ 
+E 
+Catch Fish: Double Yield
+Whenever you use the "Catch fish" (Fischfang) Action space, you can take twice as many food as are on the space. You then give 1 food each to the owners of the Fishing Rod (Angel), Raft (Floss), Canoe (Kanu), Fish Trap (Reuse) and Landing Net (Kescher).
+
+Fleischer 
+Meat-seller 
+1+ 
+E 
+Oven: change Animals into Food
+If you have an Oven (Ofen), you can change your animals into food at any time. Take 2 food for each sheep, 3 for each wild boar and 4 for each cattle marker.
+
+Flurschutze 
+Field Warden 
+4+ 
+E 
+Can always Plough Fields and take Vegetables
+You can use the "Take 1 vegetable" (1 Gemuse nehmen), "Plough fields" (Acker pflugen) and "Plough fields and Sow" (Acker pflugen und aussaen) actions even if another player has placed a person on the space.
+
+Forstwirt 
+Master Forester 
+4+ 
+E 
+Private Forest
+Include the "2 Wood" (2 Holz) Action card from the 3-player game as an additional forest. At the start of each round, place 2 wood on the card. Any player who uses this action must pay you 2 food.
+
+Freibauer 
+Yeoman Farmer
+3+ 
+E 
+Only lose points for Begging cards and Unused spaces
+At the end of the game, you only lose points in the "Unused spaces" (Ungenutzte Felder) category and for Begging cards.
+
+Gartenarbeiter 
+Undergardener 
+4+ 
+E 
+Day Labourer: +1 Vegetable
+Whenever you use the "Day Labourer" (Tagelohner) Action space, also take 1 vegetable.
+
+Gaukler 
+Conjurer 
+4+ 
+E 
+Travelling Players: +1 Grain
+Whenever you use the "Travelling Players" (Kleinkunst) action on an Action space, take 1 additional grain.
+
+Gemusehandler
+Greengrocer 
+3+ 
+E 
+To 1 Grain, add 1 Vegetable
+Whenever you use the "Take 1 Grain" (1 Getreide nehmen) Action space, also take 1 vegetable.
+
+Geschichtenerzahler
+Storyteller 
+4+ 
+E 
+Travelling Players: 1 Vegetable instead of 1 Food.
+Whenever you use the "Travelling Players" (Kleinkunst) action on an Action space, you can leave 1 food on the space and take 1 vegetable instead.
+
+Gutsverwalter 
+Estate Manager
+3+ 
+E 
+Points for Largest Herds
+At the end of a 3/4/5 player game, if no player has more animals of any type than you, you receive 2/3/4 bonus points.
+
+Hafenarbeiter 
+Dock Worker 
+1+ 
+E 
+3:1 or 2:1 Harbour
+At any time, you can use the Dock Worker to convert 3 wood to either 1 clay, 1 reeds or 1 stone, or to convert 2 clay, 2 reeds or 2 stone to one other resource.
+
+Hauptling 
+Chief 
+1+ 
+E 
+Game End: 3 points for Stone House Rooms
+At the end of the game, you receive 1 bonus point for each room in your Stone house. (In total, you receive 3 points per room instead of 2.) Playing this card costs an additional 2 food.
+
+Hauptlingstochter 
+Chief's Daughter
+1+ 
+E 
+Points for Renovating
+If another player plays the "Chief" (Hauptling) card, you can play this card immediately at no cost. (You can also play it using an Action space in the usual way.) At the end of the game, you receive 3 bonus points if you have a Stone house, 1 if you have a Clay hut.
+
+Hauslehrer 
+Tutor 
+1+ 
+E 
+Points for Future Occupations
+At the end of the game, you receive 1 bonus point for each occupation that you play after this one.
+
+Heckenwart 
+Hedge Keeper 
+1+ 
+E 
+Fences: +3 Fences
+Whenever you build at least 1 fence, you can build 3 additional fences without paying any additional wood.
+
+Holzfaller 
+Woodcutter 
+1+ 
+E 
+Wood: +1 Wood
+Take 1 additional wood whenever you use a family member's action to take wood.
+
+Holzhuttenbauer
+Wooden Hut Builder
+3+ 
+E 
+Wooden Hut scored as Clay Hut
+At the end of the game, you receive 1 bonus point for each room in your wooden hut.
+
+Huttenbauer 
+Hut Builder 
+4+ 
+E 
+Free Room for Wooden or Clay Hut
+Play this card during Round 1-4 and at the start of Round 11 you can extend your hut by 1 room at no cost, as long as you have not turned it into a stone house.
+
+Kaufmann 
+Merchant 
+1+ 
+E 
+Improvement: 2x Improvement
+Whenever you use the "Minor Improvement" (kleine Anschaffung) or "Minor or Major Improvement" (kleine oder grosse Anschaffung) action, you can pay 1 food to use the action a second time.
+
+Kleingartner 
+Hobby Farmer 
+4+ 
+E 
+1 Vegetable
+Take 1 vegetable when you play this card
+
+Koch 
+Cook 
+4+ 
+E 
+Offspring: only 1 Food
+In the Feeding phase of each Harvest, only 2 of your people eat 2 food each; any others are satisfied with only 1.
+
+Kohler 
+Charcoal Burner
+3+ 
+E 
+When someone builds a Fireplace, Cooking Hearth or Oven: +1 Food, +1 Wood
+Take 1 food and 1 wood whenever any player (including you) builds a Fireplace (Feuerstelle), Cooking Hearth (Kochstelle), Cooking Corner (Kochecke), Baker's Kitchen (Backstube), Bakehouse (Backhaus) or Oven (Ofen).
+
+Korbflechter 
+Basket Weaver 
+4+ 
+E 
+Harvest: 3 Food from 1 Reeds
+In each Harvest, the Basket Weaver can convert up to 1 reeds to 3 food.
+
+Kramer 
+Grocer 
+1+ 
+E 
+Buy Goods (in order) for 1 Food
+Pile (from bottom to top) 1 vegetable, reeds, clay, wood, vegetable, stone, grain, reeds on this card. At any time, you may buy the top item for 1 food.
+
+Lehmbrenner 
+Clay Firer 
+4+ 
+E 
+Convert Clay to Stone
+You can use the Clay Firer at any time to convert 2 (3) clay to 1 (2) stone.
+
+Lehmhandler 
+Clay Seller 
+4+ 
+E 
+Convert Clay to Animals, Reeds or Stone
+You can use the Clay Seller at any time to convert 2 clay to 1 sheep or 1 reeds, 3 clay to 1 wild boar or 1 stone and/or 4 clay to 1 cattle.
+
+Lehmlieferant 
+Clay Deliveryman
+1+ 
+E 
+1 Clay in Rounds 6 to 14
+Place 1 clay on each of the spaces for rounds 6 to 14. At the start of these rounds, take the clay.
+
+Lehmmischer 
+Clay Mixer 
+1+ 
+E 
+Only Clay: +2 Clay
+Whenever one of your people's actions gives you only clay, take 2 additional clay.
+
+Lehnsherr 
+Lord of the Manor
+1+ 
+E 
+In Scoring Categories, 5 points instead of 4
+At the end of the game, you receive 1 bonus point in each scoring category where you have scored the maximum 4 points. (The bonus point is also awarded for 4 fenced stables.)
+
+Magd 
+Maid 
+1+ 
+E 
+Clay Hut: 1 Food each Round
+Once you have built a Clay hut, place 1 food on each remaining Round space. At the start of these rounds, take the food. (If you already have a Clay hut or a Stone house when you play this card, place the food immediately)
+
+Maurer 
+Mason 
+1+ 
+E 
+Free Room for a Stone House
+Once during the game, at any time after your stone house reaches at least 4 rooms, you may extend it by 1 room at no cost.
+
+Mazen 
+Patron 
+4+ 
+E 
+Further Occupations: +2 Food
+In future, whenever you play an occupation, take 2 food before you pay the costs of the occupation.
+
+Pfarrer 
+Pastor 
+4+ 
+E 
+Last with only 2 Rooms: Donation
+If, when you play this card or later in the game, you are the last player to only have 2 rooms in your home, you receive 3 Wood, 2 Clay, 1 Reeds and 1 Stone.
+
+Pflughalter 
+Plough Driver 
+1+ 
+E 
+Stone House: Plough 1 Field each Round
+Once you have a stone house, you can pay 1 food at the start of each round to plough (at most) 1 field.
+
+Pflugmacher 
+Plough Maker 
+1+ 
+E 
+Plough fields: For 1 Food, Plough 1 extra Field
+Whenever you use either of the "Plough" (Acker pflugen) or "Plough Fields and Sow" (Acker pflugen und Aussaen) Action spaces, you can pay 1 food to plough 1 additional field.
+
+Pilzsucher 
+Mushroom Collector
+1+ 
+E 
+Wood: 2 Food for 1 Wood
+Whenever you use a family member's action to take wood from an Action space, you can leave 1 of the wood on the space and take 2 food in exchange.
+
+Prahler 
+Braggart 
+3+ 
+E 
+Points for Improvements
+At the end of the game, you receive 1/3/5/7/9 Bonus points for having 5/6/7/8/9 improvements in front of you.
+
+Rattenfanger 
+Ratcatcher 
+3+ 
+E 
+Other Players' Offspring(*) miss a turn
+In rounds 10 and 12, all other players may not place 1 of their family's offspring (if they have any). (You yourself may place all your family members.) This card may only be played until the end of Round 9. (*) 3rd, 4th and 5th family member are offspring
+
+Renovator 
+Renovator 
+1+ 
+E 
+Renovation: -2 Clay / -2 Stone
+Pay 2 less clay to renovate to a clay hut; 2 less stone to renovate to a stone house.
+
+Restaurator 
+Conservator 
+1+ 
+E 
+Renovate a Wooden hut to a Stone house
+You can renovate your wooden hut to a stone house without first needing to renovate it to a clay hut.
+
+Rinderflusterer 
+Cattle Whisperer
+4+ 
+E 
+Up to 2 Cattle
+Add 5 and 9 to the current round. Place 1 cattle on the corresponding Round spaces. At the start of these rounds, take the cattle. 
+
+Saisonarbeiter 
+Seasonal Worker
+1+ 
+E 
+Day Labourer: +1 Grain (from Round 6, Vegetables)
+Whenever you use the "Day Labourer" (Tagelohner) Action space, you receive 1 additional grain. From Round 6, you can choose to take 1 vegetable instead.
+
+Schafer 
+Shepherd 
+4+ 
+E 
+2 Lambs from Breeding
+During each Harvest, if you have at least 4 sheep during the Breeding phase, take 2 lambs instead of 1 as long as you have room for them.
+
+Schafmeister 
+Master Shepherd
+4+ 
+E 
+1 Sheep for 3 Rounds
+Place 1 sheep on each of the next 3 Round spaces. At the start of these rounds, take the sheep.
+
+Schilfsammler 
+Reed Collector 
+3+ 
+E 
+1 Reeds for 4 Rounds
+Place 1 reeds on each of the next 4 Round spaces. At the start of these rounds, you receive the reeds.
+
+Schweinehirt 
+Swineherd 
+4+ 
+E 
+Wild boar: +1 Wild boar
+Whenever you use the "Wild boar" (Wildschwein) Action space, you receive 1 additional wild boar from the supply. (The "Wild boar" Action space is added in Round 8 or 9.)
+
+Stalljunge 
+Stable Hand 
+1+ 
+E 
+Fences: +1 Stable
+Whenever you build at least 1 fence, you also receive 1 stable which you must build immediately (This may be built inside or outside the fenced area.)
+
+Stallmeister 
+Stablemaster 
+1+ 
+E 
+3 Animals of the Same Type in an Unfenced Stable
+In (at most) one of your unfenced stables, you can hold up to 3 animals of the same type.
+
+Steinhauer 
+Quarryman 
+3+ 
+E 
+2 Food per Stone
+You can use the Quarryman at any time to convert stone to food. For each stone you convert, take 2 food.
+
+Steinschlepper 
+Stone Carrier 
+1+ 
+E 
+Stone: 1 Stone (possibly for 1 Food)
+Whenever you take stone with an action, you can also take 1 additional stone. If you also receive other resources, this costs you 1 food.
+
+Steinschneider 
+Stonecutter 
+3+ 
+E 
+Everything -1 Stone
+All Improvements, rooms and renovations cost 1 stone less.
+
+Tanzer 
+Dancer 
+4+ 
+E 
+Travelling Players: min. 4 Food
+Whenever you use the "Travelling Players" (Kleinkunst) action on an Action space, you receive at least 4 Food, even if only 1 to 3 Food are on the space.
+
+Tierpfleger 
+Stockman 
+4+ 
+E 
+Stable: +1 Animal
+Take 1 cattle when you build your second stable, 1 wild boar when you build your third and 1 sheep when you build your fourth. (If you build several stables at once, you may be entitled to take several animals as well.)
+
+Topfer 
+Potter 
+3+ 
+E 
+Harvest: 2 Food from 1 Clay
+In each Harvest, the Potter can convert up to 1 clay to 2 food.
+
+Viehpachter 
+Tenant Farmer 
+4+ 
+E 
+Borrow 3 Animals
+You immediately receive a loan of one of each type of animal. Before scoring, return the 3 animals. For each animal that you cannot or do not want to return, deduct 1 point.
+
+Viehwarter 
+Animal Keeper 
+4+ 
+E 
+Animals in the same Pasture
+You can keep sheep, wild boar and cattle in the same pasture. This applies to all your pastures (except the Forest pasture (Waldweide)).
+
+Vogt 
+Reeve 
+3+ 
+E 
+3 points for Players with the most Occupations, Wood when played
+Take 1/2/3/4 wood if there are still 1/3/6/9 rounds to play. At the end of the game, players with the most played Occupation cards each receive 3 bonus points.
+
+Zimmermann 
+Carpenter 
+1+ 
+E 
+Extension: 3 Resources & 2 Reeds
+To extend your home, you need only 3 of the appropriate resource and 2 reeds (For example, if you live in a wooden hut, you need 3 wood and 2 reeds.)
+
+Ackermann 
+Fieldsman 
+1+ 
+I 
+Sow 1 Field: +2 Seed. Sow 2 Fields: +1 Seed.
+Whenever you sow 1 field, place 2 extra goods from the supply on the newly sown field. Whenever you sow 2 fields, place 1 extra good on each. (If you sow three or more fields, there is no advantage).
+
+Brunnenbauer 
+Well Builder 
+1+ 
+I 
+Well: Minor Improvement for 1 Stone and 1 Wood 
+For you, the Well (Brunnen) is not a Major but a Minor improvement and costs only 1 stone and 1 wood to build.
+
+Dorfaltester 
+Village Elder 
+3+ 
+I 
+3 points for Players with the most Improvements, Wood when Played
+If there are still 1/3/6/9 rounds to play, you immediately receive 1/2/3/4 wood. At the end of the game, all players with the most Improvements receive 3 bonus points each.
+
+Emporkommling
+Social Climber 
+4+ 
+I 
+Reward for Early Renovation
+Whenever you are the first player to renovate to a clay hut or a stone house, you receive 3 stone. If you are the second, you receive 2 stone; the third, you receive 1 stone. (This is not given retrospectively.)
+
+Erntehelfer 
+Harvest Helper 
+3+ 
+I 
+1 Grain when Other Players Harvest
+At the start of the Feeding phase in each Harvest, you can take 1 grain from 1 field belonging to another player. S/he takes 2 food from the supply.
+
+Feldarbeiter 
+Field Worker 
+3+ 
+I 
+Other player Sows: +1 Grain or +1 Food
+Whenever another player sows one or more fields, you receive 1 grain in a 3-player game, 1 food in a 4 or 5 player game. (If you sow, you do not get any bonus).
+
+Feldhuter 
+Field Watchman
+1+ 
+I 
+Take Grain: also Plough 1 Field
+Whenever you use the "Take 1 grain" (1 Getreide nehmen) Action space, you can also plough up to 1 field.
+
+Gartner 
+Gardener 
+1+ 
+I 
+Take Harvested Vegetables from the Supply
+Take vegetables from the supply and not from your vegetable field whenever you harvest them – you keep the vegetables on the fields.
+
+Gemeindevorsteher
+Church Warden 
+1+ 
+I 
+3 points for Players with 5 Actions in Round 14, Wood when Played
+If there are still 1/3/6/9 rounds to play, you immediately receive 1/2/3/4 wood. At the end of the game, any player who performed actions with at least 5 people in Round 14 receives 3 bonus points. (A guest (Gast) is counted.)
+
+Geschaftsmann
+Businessman 
+3+ 
+I 
+Start player: +1 Improvement
+Whenever you use the "Starting player" (Startspieler) Action space, you can play an additional Minor Improvement or a Major Improvement after you play the Minor Improvement
+
+Getreideschmuser
+Sycophant 
+4+ 
+I 
+A Player takes Grain: 1-2 Food
+Whenever another player uses the "Take 1 Grain" Action space, s/he must first pay you 1 food. In addition, you receive 1 food from the supply, even when you take the grain yourself.
+
+Gruber 
+Clay Digger 
+4+ 
+I 
+Private Clay Pit
+Include the "1 Clay" (1 Lehm) Action card from the 3-player game as an additional clay pit. Immediately place 3 clay on the card and add 1 clay at the start of each round. Any player who uses this action must pay you 3 food.
+
+Hausknecht 
+Manservant 
+1+ 
+I 
+With Stone House, 3 food each Round
+When you build a Stone house, place 3 food on each remaining Round space. At the start of these rounds, take the food. (If you already have a Stone house when you play this card, place the food immediately)
+
+Hebamme 
+Midwife 
+4+ 
+I 
+Other Player Grows Family Faster: +1 or +2 Food
+Whenever another player has a larger family than you after having offspring, you receive 1 food. If s/he has at least 2 more family members than you, you receive 2 food. (The food is taken from the supply, not from the other player.)
+
+Hofverwalter 
+Farm Steward 
+1+ 
+I 
+Family Growth: Room for 1 More Person
+Once you live in a Clay hut or Stone house, play your next Family growth action as "Family growth even without room in the hut or house" (Familienzuwachs auch ohne Platz in Hutte bzw Haus). (Similar to the Round card from Stage 5. All future Family growth is carried out as normal.)
+
+Holzaufkaufer 
+Wood Buyer 
+3+ 
+I 
+Buy 1 Wood from Other Players
+Whenever a player receives wood from an action, you can buy 1 wood from him/her for 1 food (even without his/her agreement).
+
+Holzsammler 
+Wood Collector 
+1+ 
+I 
+1 Wood for 5 Rounds
+Place 1 wood on each of the next 5 Round spaces. At the start of these rounds, you receive the wood.
+
+Hufenbauer 
+Hide Farmer 
+3+ 
+I 
+No Points Subtracted for Unused Spaces
+At the end of the game, you can pay 1 food each for any number of unused fields. These do not lose you points in the scoring.
+
+Jongleur 
+Juggler 
+4+ 
+I 
+Travelling Players: Double Food
+Whenever you use the Travelling Players (Kleinkunst) action on an Action space, you can take twice as much food as is on the card. You then give one food each to the Magician (Zauberkunstler), Conjurer (Gaukler), Musician (Strassenmusikant), Puppeteer (Puppenspieler), Acrobat (Akrobat), Dancer (Tanzer) and Storyteller (Geschichtenerzahler).
+
+Metzger 
+Butcher 
+1+ 
+I 
+Change Animals into Food even without a Fireplace / Cooking Hearth.
+You can change your animals into food at any time. Take 1 food for each sheep, 2 for each wild boar and 3 for each cattle.
+
+Netzer 
+Net Fisherman 
+1+ 
+I 
+Reeds: Catch fish
+If one of your people uses an Action space that provides reeds, you can take all food markers from the "Catch fish" (Fischfang) space in the Returning home phase (Phase 4)
+
+Puppenspieler 
+Puppeteer 
+4+ 
+I 
+1 Occupation when Other Players Choose Travelling Players (Kleinkunst)
+Whenever another player chooses the "Travelling players" (Kleinkunst) action on an Action space, you can pay 1 food to play an occupation.
+
+Schafflusterer 
+Sheep Whisperer
+4+ 
+I 
+4 Possible Sheep
+Add 4, 7, 9 and 11 to the current round and place 1 sheep on each corresponding Round space. At the start of these rounds, take the sheep.
+
+Schilfaufkaufer 
+Reeds Buyer 
+4+ 
+I 
+Buy 1 Reeds from Another Player
+Whenever reeds are taken for the first time in a round, you may give the player 1 food in exchange for 1 of the reeds. The other player receives an additional 1 food from the supply.
+
+Schweinezuchter
+Pig Breeder 
+4+ 
+I 
++1 Wild Boar, Piglet after Round 12
+Your wild boar also breed at the end of Round 12, if there is place for the piglet. When you play this card, take 1 wild boar.
+
+Schweinsfanger
+Pig Catcher 
+4+ 
+I 
+Wood: 1 Wild Boar instead of 2 Wood
+Whenever you use a person to take wood that is on an Action space, you can leave 2 of the wood on the space and take a wild boar instead.
+
+Stallknecht 
+Groom 
+4+ 
+I 
+Stone House: Each Round 1 Stable for 1 Wood
+Once you have a Stone house, you can build 1 stable at a cost of 1 wood at the beginning of each round, without placing a person.
+
+Steinaufkaufer 
+Stone Buyer 
+4+ 
+I 
+Buy 1 Stone from Another Player
+Whenever another player is the first to take stone in a round, you may give him/her 1 food in exchange for 1 of the stone. S/he receives an additional 1 food from the supply. (The other player cannot refuse this exchange.) (If you are the first player to take stone, you do not get any advantage.)
+
+Steinmetz 
+Stone Carver 
+1+ 
+I 
+Harvest: 3 Food from 1 Stone
+In each Harvest, the Stone Carver can convert up to 1 stone to 3 food.
+
+Strassenmusikant
+Musician 
+4+ 
+I 
+1 Grain when Opponent Uses Travelling Players
+Take 1 grain whenever another player takes the "Travelling Players" (Kleinkunst) action on an Action space.
+
+Tischler 
+Cabinetmaker 
+3+ 
+I 
+Harvest: 2 food from 1 wood
+In each Harvest, the Cabinetmaker can convert up to 1 wood to 2 food.
+
+Viehtreiber 
+Animal Dealer 
+3+ 
+I 
+Additional animal for 1 food
+Whenever you use one of the "Sheep" (Schaf), "Wild boar" (Wildschwein) or "Cattle" (Rind) Action spaces, you can pay 1 food to take 1 additional animal of that type. (The "Sheep", "Wild boar" and "Cattle" cards are added in Rounds 1-4, 8-9 and 10-11.)
+
+Vorkoster 
+Taster 
+4+ 
+I 
+For 1 Food, Push In at the Start of the Round
+Whenever another player is the Starting Player, you can pay him/her 1 food at the start of the round and be the first to place a family member. After that, play starts with the Starting player as usual. (If you are the Starting player, you do not get any advantage.)
+
+Vorreiter 
+Outrider 
+4+ 
+I 
+Person on Current Round Card: +1 Grain
+Whenever you use the most recent Round card with one of your people, take 1 additional grain.
+
+Wassertrager 
+Water Carrier 
+1+ 
+I 
+Each Round 1 Food, once the Well is Built
+Once any player has built the Well (Brunnen), place 1 food on the remaining Round spaces. At the start of these rounds, you receive the food. (If the well has already been built, place the food immediately.)
+
+Zaunaufsteller 
+Fence Builder 
+1+ 
+I 
+Build Fences even on a Different Action Space
+When you play this card, place one of your fences on an Action space of your choice. If you use an action on this Action space, you can also build fences as an additional action.
+
+Zaunbauer 
+Fencer 
+4+ 
+I 
+Other Players' Fences: +1 or +2 Wood
+Whenever another player builds 1 to 4 fences, take 1 wood from the supply. Whenever another player builds 5 or more fences, take 2 wood. (If you build fences yourself, you receive no benefit.)
+
+Zaunlieferant 
+Fence Deliveryman
+1+ 
+I 
+Place Fences Twice for 2 Food
+Add 6 and 10 to the current Round. Place 4 of your fences on each corresponding Round space. At the start of these rounds, you can pay 2 food to build all 4 fences immediately. (You may build fewer than 4 fences. You do not need to pay wood to build the fences.)
+
+Ackerfrohne 
+Serf 
+4+ 
+K 
+Before Sowing: Take or Swap Grain
+Whenever you use the "Sow and bake bread" (Aussaen und Brot backen) action, take 1 grain before the action. Alternatively, you can exchange 1 grain for 1 vegetables.
+
+Adoptiveltern 
+Adoptive Parents
+1+ 
+K 
+For 1 Food, Place Offspring Immediately
+When you take the "Family Growth" (Familienzuwachs) action, you can pay 1 food and place the offspring on an Action space in the same round. The offspring does not then count as "newborn".
+
+Akkordarbeiter 
+Casual Labourer
+1+ 
+K 
+For 1-2 Food, Additional Good 
+Whenever you receive wood, clay, reeds, stone or grain on an Action space, you can buy one more of the same good for 1 food. An additional vegetables costs 2 food.
+
+Akrobat 
+Acrobat 
+4+ 
+K 
+Travelling Players: Extra Action
+Whenever you use the "Travelling Players" (Kleinkunst) action on an Action Space, after all other players have had their turns you may move that person to a free "Plough" (Acker pflugen) or "Take 1 Grain" (1 Getreide nehmen) Action space and take the action.
+
+Amme 
+Wet Nurse 
+1+ 
+K 
+Building (Hausbau): 1 Family Growth for 1 Food 
+When building, you may grow your family by up to the number of rooms that you build. This costs 1 food per person. (The newborns are only available as people in the next round).
+
+Ausbilder 
+Educator 
+4+ 
+K 
+Other Player's Occupation: Occupation
+Whenever another player plays an Occupation card, you can pay 3 food to play one yourself. From your 4th Occupation, this only costs 2 food. (If you play an Occupation yourself, you cannot use this card to play a second Occupation.)
+
+Balkenschlager 
+Frame Builder 
+1+ 
+K 
+Wood as Replacement Material
+In each renovation, you may replace exactly 1 clay or 1 stone with 1 wood. In each extension, you may replace exactly 2 clay or 2 stone with 1 wood.
+
+Beckenbauer 
+Basin Maker 
+4+ 
+K 
+Points for Wood and Skin Basins
+For each wild boar that you convert into food, you can place up to 2 wood from your personal supply on this card. You receive 1 bonus point for each wood on this card except the 1st, 4th, 7th and 10th.
+
+Biobauer 
+Organic Farmer
+1+ 
+K 
+Points for Generous Pastures
+At the end of the game, you receive 1 bonus point for each pasture that contains at least 1 animal, but could contain at least 3 more animals. (This also applies to the Forest pasture (Waldweide).)
+
+Bummelstudent
+Lazy Student 
+4+ 
+K 
+Random Occupation: +3 Food
+Whenever you let another player draw one of your Occupation cards for you to play, you receive 3 food before you pay the costs of the card.
+
+Dorfschulze 
+Constable 
+3+ 
+K 
+5 Points for Players with No Negative Points, Wood when Played
+If there are still 1/3/6/9 Rounds to play, you immediately receive 1/2/3/4 wood. At the end of the game, any player who has no negative points receives 5 bonus points.
+
+Fabrikant 
+Manufacturer 
+3+ 
+K 
+After Renovation: Craft Cheap Minor Improvement
+Once you have a Clay hut or a Stone house, the Cabinetmaker's (Tischlerei), Pottery (Topferei) and Basket Weaver's (Korbflechterei) are Minor improvements for you and their cost is reduced by 2 resources of your choice.
+
+Forster 
+Forester 
+1+ 
+K 
+Sowing: Plant up to 3 Wood
+Whenever you use the "Sowing" (Aussaen) action, you can plant up to a maximum of 3 wood on this card (see picture). The wood is treated the same as sown grain and is harvested during the Field phase.
+
+Gelehrter 
+Scholar 
+1+ 
+K 
+Stone House: Play a Card Each Round
+Once you have a Stone house, at the start of a Round you can always either pay 1 Food to play an Occupation card or play an Improvement card by paying its costs.
+
+Gerber 
+Tanner 
+3+ 
+K 
+Points for Animal Skins
+Place wild boar and cattle that you convert into food on this card. At the end of the game, you receive 1/2/3 bonus points for 2/4/6 slaughtered wild boar as well as for 2/3/4 cattle.
+
+Handelsreisender
+Travelling Salesman
+1+ 
+K 
+Improvements are easier
+Whenever you select the "Minor Improvement" (kleine Anschaffung) action on an Action space, you can play a Major instead of a Minor Improvement. If you select the "Major or Minor Improvement" action (grosse oder kleine Anschaffung), you can play 2 Minor Improvements.
+
+Hausmeier 
+House Steward 
+3+ 
+K 
+3 points for Players with the Most Rooms, Wood when Played
+If there are still 1/3/6/9 rounds to play, you immediately receive 1/2/3/4 wood. At the end of the game, players with the most rooms in their home each receive 3 bonus points.
+
+Holzlieferant 
+Wood Deliveryman
+1+ 
+K 
+1 Wood in Rounds 8 to 14
+Place 1 wood on each space for Rounds 8 to 14.. At the start of these rounds, take the wood.
+
+Holzverteiler 
+Wood Distributor
+1+ 
+K 
+At the Start of the Work Phase: Place Wood on Other Spaces
+At the start of the Work phase, you can distribute the wood from the "3 Wood" (3 Holz) Action space evenly onto the neighbouring "Clay" (Lehm), "Reeds" (Schilf) and "Fischfang" (Catch fish) spaces.
+
+Kannengiesser 
+Hand Waterer 
+3+ 
+K 
+1 Food per Clay, More with Well
+With the Hand Waterer you can convert clay into food at any time. You receive 1 food per clay. If any player has built a Well (Brunnen), you receive 3 food for every 2 clay. (This card also applies to the Village Well (Dorfbrunnen).)
+
+Kleinbauer 
+Smallholder 
+1+ 
+K 
+Small Pastures: 3 Animals, 1 or 2 Fields: Sow +1
+Your pastures that can hold 2 animals can hold 3 animals. While you have at most 2 fields, add 1 extra grain or vegetables when you sow.
+
+Lagerhalter 
+Store Clerk 
+4+ 
+K 
+Big Supply: Extra Resources
+Whenever you have at least 5 Stone at the start of a round, take 1 extra Stone. With 6 Reeds, take 1 Reeds, with 7 Clay take 1 Clay and with 8 Wood take 1 Wood.
+
+Lagerverwalter 
+Storehouse Keeper
+4+ 
+K 
+Reeds and Stone: +1 Clay or Grain
+Whenever you use a person's action to take reeds and stone, you also receive your choice of 1 clay or 1 grain.
+
+Landwirt 
+Countryman 
+4+ 
+K 
+Additional Sowing after Grain/Vegetables
+After all players have placed their Family members, you may move one of your Family members from a "Take 1 Grain" (1 Getreide nehmen) or "Take 1 Vegetable" (1 Gemuse nehmen) Action space to a free "Sowing" (Aussaen) Action space after you have taken the Grain or Vegetables. (2 Claim markers)
+
+Lehmarbeiter 
+Clay Worker 
+1+ 
+K 
+Wood or Clay: +1 Clay
+Whenever you use an action to take wood or clay, you also receive 1 additional clay.
+
+Liebhaber 
+Lover 
+3+ 
+K 
+Immediate Family Growth (Familienzuwachs)
+When you play this card, immediately carry out a "Family growth even without room in the hut or house" (Familienzuwachs auch ohne Platz in Hutte bzw. Haus) action (Similar to the Round card from Stage 5). Playing this card costs you an additional 4 Food.
+
+Marktfrau 
+Market Woman
+1+ 
+K 
+Take Vegetables: +2 Grain
+Whenever you receive vegetables through an person's action or through a Minor Improvement, take 2 additional grain.
+
+Pfluger 
+Ploughman 
+1+ 
+K 
+Plough up to 3 Fields for 1 Food Each
+Add 4, 7 and 10 to the current round and place 1 field on each corresponding Round space. At the start of these rounds, you can plough that field for 1 food.
+
+Reisigbinder 
+Brushwood Collector
+3+ 
+K 
+Wooden Roof, Cheaper Extension
+You may replace the required reeds with 1 wood for any renovation or extension. (You use brushwood to make the roof)
+
+Rinderzuchter 
+Cattle Breeder 
+4+ 
+K 
++1 Cattle, Calf after Round 12
+Your cattle also breed at the end of Round 12, if there is place for the calf. When you play this card, you receive 1 cattle.
+
+Samenhandler 
+Seed Seller 
+3+ 
+K 
+Instead of 1 Grain, take 2 Grain
+Whenever you use the Action space "Take 1 Grain" (1 Getreide nehmen), take 1 additional grain. When you play this card, take 1 grain.
+
+Schafbauer 
+Sheep Farmer 
+3+ 
+K 
+Sheep: Sheep +1, 1 Cattle and 1 Wild boar for 3 Sheep
+Whenever you take sheep with one of your people, take an additional sheep from the supply. You can exchange 3 sheep for 1 cattle and 1 wild boar at any time (except during the breeding phase).
+
+Schaferknecht 
+Shepherd Boy 
+4+ 
+K 
+Each Round 1 Sheep, with Stone House
+Once you live in a Stone house, place 1 sheep on each remaining Round space. At the start of these rounds, take the sheep. (If you already live in a stone house, place the sheep immediately.)
+
+Schlachter 
+Slaughterman 
+3+ 
+K 
+Another Player Slaughters: +1 Food
+Whenever another player converts animals to food, take 1 food from the supply. In the Feeding phase, you are the last player to play. (If you slaughter, you receive no additional food.)
+
+Schnapsbrenner
+Schnaps Distiller
+1+ 
+K 
+Harvest: 5 Food from 1 Vegetable
+In the Feeding phase of each Harvest, the Schnaps Distiller can convert up to 1 vegetable to 5 food.
+
+Schnitzer 
+Wood Carver 
+1+ 
+K 
+Save 1 Wood each Round
+Each round, either an Improvement, a room of a Wooden hut, a stable or a fence costs you 1 wood less.
+
+Schweineflusterer
+Pig Whisperer 
+4+ 
+K 
+3 possible wild boar
+Add 4, 7 and 10 to the current round and place 1 wild boar on each corresponding Round space. At the start of these rounds, take the wild boar..
+
+Steinklopfer 
+Stone Breaker 
+4+ 
+K 
+Renovate to a Stone House Out of Turn
+At any time, you can renovate your Clay hut to a Stone house without using the "Renovation" (Renovierung) Action space. (You must still pay the costs of the renovation.)
+
+Tierarzt 
+Veterinarian 
+4+ 
+K 
+Start of Round: Draw an Animal
+When you play this card, place 4 sheep, 3 wild boar and 2 cattle in a container. At the start of each round, draw two animals. If they are the same, keep one. Return the 1 or 2 animals to the container.
+
+Tierhalter 
+Animal Handler
+4+ 
+K 
+1 Animal of Each Type for Purchase
+Place 1 sheep on the space for Round 7, 1 wild boar on Round 10 and 1 cattle on Round 14. At the start of these Rounds, you can buy the animal for 1 food.
+
+Tierzahmer 
+Animal Tamer 
+1+ 
+K 
+Keep 1 Animal in Each Room
+You can keep 1 animal in each room of your home. You may keep more than 1 type of animal in your home.
+
+Tierzuchter 
+Animal Breeder 
+4+ 
+K 
+Fences: Buy an Additional Pair of Animals
+When you fence unused spaces to create at least one new pasture, you can buy a pair of animals: 2 sheep for 1 food, 2 wild boar for 2 food or 2 cattle for 3 food.
+
+Vorarbeiter 
+Foreman 
+4+ 
+K 
+At the start of the Work Phase: 1 Food on an Action Space
+At the start of the Work phase, you can place 1 Food from the general supply on an Action space of your choice.
+
+Weber 
+Weaver 
+4+ 
+K 
+2 Sheep in the Farmyard: +1 Food
+Whenever you have at least 2 sheep at the start of the Work phase, you receive 1 food.
+
+Werkstoffhandler
+Resource Seller 
+1+ 
+K 
+Take Resources in Turn
+Pile (from bottom to top) 1 Stone, Clay, Stone, Clay, Reeds, Clay, Wood on this card. Take the top marker when you receive that type of resource.
+
+Zauberkunstler 
+Magician 
+4+ 
+K 
+Travelling Players: +1 Grain and +1 Food for your Last Person
+Whenever you use your last person to choose the "Travelling Players" (Kleinkunst) action on an Action space, take an additional 1 grain and 1 food.
+
+Zaunaufseher 
+Fence Overseer 
+1+ 
+K 
+Stable: Fence Immediately
+Each Round, for a cost of 1 food, you can immediately fence a pasture of 1 farmyard space around a stable that you have just built. You do not need to pay wood for the fences.

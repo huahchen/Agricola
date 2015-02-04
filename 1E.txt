@@ -1,0 +1,196 @@
+Backer 
+Baker 
+1+ 
+E 
+May Bake during Harvest
+During each Harvest, you may Bake bread at the start of the Feeding phase if you have a Baking improvement. When you play this card, you may Bake bread as an additional action.
+
+Baumeister 
+Architect 
+1+ 
+E 
+Free 6th Room
+Once during the game, at any time after your home reaches at least 5 rooms, you may extend it by 1 room at no cost.
+
+Bettelmonch 
+Mendicant 
+1+ 
+E 
+Discard 2 Begging cards
+At the end of the game, you can discard up to 2 Begging cards without losing points for them.
+
+Braumeister 
+Master Brewer 
+1+ 
+E 
+Harvest: 3 Food From 1 Grain
+In the Feeding phase of each Harvest, the Master Brewer can convert up to 1 grain to 3 food.
+
+Fleischer 
+Meat-seller 
+1+ 
+E 
+Oven: change Animals into Food
+If you have an Oven (Ofen), you can change your animals into food at any time. Take 2 food for each sheep, 3 for each wild boar and 4 for each cattle marker.
+
+Hafenarbeiter 
+Dock Worker 
+1+ 
+E 
+3:1 or 2:1 Harbour
+At any time, you can use the Dock Worker to convert 3 wood to either 1 clay, 1 reeds or 1 stone, or to convert 2 clay, 2 reeds or 2 stone to one other resource.
+
+Hauptling 
+Chief 
+1+ 
+E 
+Game End: 3 points for Stone House Rooms
+At the end of the game, you receive 1 bonus point for each room in your Stone house. (In total, you receive 3 points per room instead of 2.) Playing this card costs an additional 2 food.
+
+Hauptlingstochter 
+Chief's Daughter
+1+ 
+E 
+Points for Renovating
+If another player plays the "Chief" (Hauptling) card, you can play this card immediately at no cost. (You can also play it using an Action space in the usual way.) At the end of the game, you receive 3 bonus points if you have a Stone house, 1 if you have a Clay hut.
+
+Hauslehrer 
+Tutor 
+1+ 
+E 
+Points for Future Occupations
+At the end of the game, you receive 1 bonus point for each occupation that you play after this one.
+
+Heckenwart 
+Hedge Keeper 
+1+ 
+E 
+Fences: +3 Fences
+Whenever you build at least 1 fence, you can build 3 additional fences without paying any additional wood.
+
+Holzfaller 
+Woodcutter 
+1+ 
+E 
+Wood: +1 Wood
+Take 1 additional wood whenever you use a family member's action to take wood.
+
+Kaufmann 
+Merchant 
+1+ 
+E 
+Improvement: 2x Improvement
+Whenever you use the "Minor Improvement" (kleine Anschaffung) or "Minor or Major Improvement" (kleine oder grosse Anschaffung) action, you can pay 1 food to use the action a second time.
+
+Kramer 
+Grocer 
+1+ 
+E 
+Buy Goods (in order) for 1 Food
+Pile (from bottom to top) 1 vegetable, reeds, clay, wood, vegetable, stone, grain, reeds on this card. At any time, you may buy the top item for 1 food.
+
+Lehmlieferant 
+Clay Deliveryman
+1+ 
+E 
+1 Clay in Rounds 6 to 14
+Place 1 clay on each of the spaces for rounds 6 to 14. At the start of these rounds, take the clay.
+
+Lehmmischer 
+Clay Mixer 
+1+ 
+E 
+Only Clay: +2 Clay
+Whenever one of your people's actions gives you only clay, take 2 additional clay.
+
+Lehnsherr 
+Lord of the Manor
+1+ 
+E 
+In Scoring Categories, 5 points instead of 4
+At the end of the game, you receive 1 bonus point in each scoring category where you have scored the maximum 4 points. (The bonus point is also awarded for 4 fenced stables.)
+
+Magd 
+Maid 
+1+ 
+E 
+Clay Hut: 1 Food each Round
+Once you have built a Clay hut, place 1 food on each remaining Round space. At the start of these rounds, take the food. (If you already have a Clay hut or a Stone house when you play this card, place the food immediately)
+
+Maurer 
+Mason 
+1+ 
+E 
+Free Room for a Stone House
+Once during the game, at any time after your stone house reaches at least 4 rooms, you may extend it by 1 room at no cost.
+
+Pflughalter 
+Plough Driver 
+1+ 
+E 
+Stone House: Plough 1 Field each Round
+Once you have a stone house, you can pay 1 food at the start of each round to plough (at most) 1 field.
+
+Pflugmacher 
+Plough Maker 
+1+ 
+E 
+Plough fields: For 1 Food, Plough 1 extra Field
+Whenever you use either of the "Plough" (Acker pflugen) or "Plough Fields and Sow" (Acker pflugen und Aussaen) Action spaces, you can pay 1 food to plough 1 additional field.
+
+Pilzsucher 
+Mushroom Collector
+1+ 
+E 
+Wood: 2 Food for 1 Wood
+Whenever you use a family member's action to take wood from an Action space, you can leave 1 of the wood on the space and take 2 food in exchange.
+
+Renovator 
+Renovator 
+1+ 
+E 
+Renovation: -2 Clay / -2 Stone
+Pay 2 less clay to renovate to a clay hut; 2 less stone to renovate to a stone house.
+
+Restaurator 
+Conservator 
+1+ 
+E 
+Renovate a Wooden hut to a Stone house
+You can renovate your wooden hut to a stone house without first needing to renovate it to a clay hut.
+
+Saisonarbeiter 
+Seasonal Worker
+1+ 
+E 
+Day Labourer: +1 Grain (from Round 6, Vegetables)
+Whenever you use the "Day Labourer" (Tagelohner) Action space, you receive 1 additional grain. From Round 6, you can choose to take 1 vegetable instead.
+
+Stalljunge 
+Stable Hand 
+1+ 
+E 
+Fences: +1 Stable
+Whenever you build at least 1 fence, you also receive 1 stable which you must build immediately (This may be built inside or outside the fenced area.)
+
+Stallmeister 
+Stablemaster 
+1+ 
+E 
+3 Animals of the Same Type in an Unfenced Stable
+In (at most) one of your unfenced stables, you can hold up to 3 animals of the same type.
+
+Steinschlepper 
+Stone Carrier 
+1+ 
+E 
+Stone: 1 Stone (possibly for 1 Food)
+Whenever you take stone with an action, you can also take 1 additional stone. If you also receive other resources, this costs you 1 food.
+
+Zimmermann 
+Carpenter 
+1+ 
+E 
+Extension: 3 Resources & 2 Reeds
+To extend your home, you need only 3 of the appropriate resource and 2 reeds (For example, if you live in a wooden hut, you need 3 wood and 2 reeds.)
+

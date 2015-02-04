@@ -1,0 +1,132 @@
+Adoptiveltern 
+Adoptive Parents
+1+ 
+K 
+For 1 Food, Place Offspring Immediately
+When you take the "Family Growth" (Familienzuwachs) action, you can pay 1 food and place the offspring on an Action space in the same round. The offspring does not then count as "newborn".
+
+Akkordarbeiter 
+Casual Labourer
+1+ 
+K 
+For 1-2 Food, Additional Good 
+Whenever you receive wood, clay, reeds, stone or grain on an Action space, you can buy one more of the same good for 1 food. An additional vegetables costs 2 food.
+
+Amme 
+Wet Nurse 
+1+ 
+K 
+Building (Hausbau): 1 Family Growth for 1 Food 
+When building, you may grow your family by up to the number of rooms that you build. This costs 1 food per person. (The newborns are only available as people in the next round).
+
+Balkenschlager 
+Frame Builder 
+1+ 
+K 
+Wood as Replacement Material
+In each renovation, you may replace exactly 1 clay or 1 stone with 1 wood. In each extension, you may replace exactly 2 clay or 2 stone with 1 wood.
+
+Biobauer 
+Organic Farmer
+1+ 
+K 
+Points for Generous Pastures
+At the end of the game, you receive 1 bonus point for each pasture that contains at least 1 animal, but could contain at least 3 more animals. (This also applies to the Forest pasture (Waldweide).)
+
+Forster 
+Forester 
+1+ 
+K 
+Sowing: Plant up to 3 Wood
+Whenever you use the "Sowing" (Aussaen) action, you can plant up to a maximum of 3 wood on this card (see picture). The wood is treated the same as sown grain and is harvested during the Field phase.
+
+Gelehrter 
+Scholar 
+1+ 
+K 
+Stone House: Play a Card Each Round
+Once you have a Stone house, at the start of a Round you can always either pay 1 Food to play an Occupation card or play an Improvement card by paying its costs.
+
+Handelsreisender
+Travelling Salesman
+1+ 
+K 
+Improvements are easier
+Whenever you select the "Minor Improvement" (kleine Anschaffung) action on an Action space, you can play a Major instead of a Minor Improvement. If you select the "Major or Minor Improvement" action (grosse oder kleine Anschaffung), you can play 2 Minor Improvements.
+
+Holzlieferant 
+Wood Deliveryman
+1+ 
+K 
+1 Wood in Rounds 8 to 14
+Place 1 wood on each space for Rounds 8 to 14.. At the start of these rounds, take the wood.
+
+Holzverteiler 
+Wood Distributor
+1+ 
+K 
+At the Start of the Work Phase: Place Wood on Other Spaces
+At the start of the Work phase, you can distribute the wood from the "3 Wood" (3 Holz) Action space evenly onto the neighbouring "Clay" (Lehm), "Reeds" (Schilf) and "Fischfang" (Catch fish) spaces.
+
+Kleinbauer 
+Smallholder 
+1+ 
+K 
+Small Pastures: 3 Animals, 1 or 2 Fields: Sow +1
+Your pastures that can hold 2 animals can hold 3 animals. While you have at most 2 fields, add 1 extra grain or vegetables when you sow.
+
+Lehmarbeiter 
+Clay Worker 
+1+ 
+K 
+Wood or Clay: +1 Clay
+Whenever you use an action to take wood or clay, you also receive 1 additional clay.
+
+Marktfrau 
+Market Woman
+1+ 
+K 
+Take Vegetables: +2 Grain
+Whenever you receive vegetables through an person's action or through a Minor Improvement, take 2 additional grain.
+
+Pfluger 
+Ploughman 
+1+ 
+K 
+Plough up to 3 Fields for 1 Food Each
+Add 4, 7 and 10 to the current round and place 1 field on each corresponding Round space. At the start of these rounds, you can plough that field for 1 food.
+
+Schnapsbrenner
+Schnaps Distiller
+1+ 
+K 
+Harvest: 5 Food from 1 Vegetable
+In the Feeding phase of each Harvest, the Schnaps Distiller can convert up to 1 vegetable to 5 food.
+
+Schnitzer 
+Wood Carver 
+1+ 
+K 
+Save 1 Wood each Round
+Each round, either an Improvement, a room of a Wooden hut, a stable or a fence costs you 1 wood less.
+
+Tierzahmer 
+Animal Tamer 
+1+ 
+K 
+Keep 1 Animal in Each Room
+You can keep 1 animal in each room of your home. You may keep more than 1 type of animal in your home.
+
+Werkstoffhandler
+Resource Seller 
+1+ 
+K 
+Take Resources in Turn
+Pile (from bottom to top) 1 Stone, Clay, Stone, Clay, Reeds, Clay, Wood on this card. Take the top marker when you receive that type of resource.
+
+Zaunaufseher 
+Fence Overseer 
+1+ 
+K 
+Stable: Fence Immediately
+Each Round, for a cost of 1 food, you can immediately fence a pasture of 1 farmyard space around a stable that you have just built. You do not need to pay wood for the fences.

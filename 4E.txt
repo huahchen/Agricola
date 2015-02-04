@@ -1,0 +1,168 @@
+Backaltester 
+Master Baker 
+4+ 
+E 
+Bake when Another Player Bakes
+Whenever another player bakes, you can bake if you have a Baking improvement. If you take a Bake action yourself (not using this card), take 1 additional food.
+
+Familienoberhaupt
+Head of the Family
+4+ 
+E 
+Building and Family Growth Always Possible
+You can use any Building or Family growth (Familienzuwachs) Action space, even if another player has already placed a person on it.
+
+Farmer 
+Farmer 
+4+ 
+E 
+Fences: +1 Animal
+The next time you build fences, take 1 wild boar. Each time you build at least 1 fence after that, take 1 cattle marker.
+
+Flurschutze 
+Field Warden 
+4+ 
+E 
+Can always Plough Fields and take Vegetables
+You can use the "Take 1 vegetable" (1 Gemuse nehmen), "Plough fields" (Acker pflugen) and "Plough fields and Sow" (Acker pflugen und aussaen) actions even if another player has placed a person on the space.
+
+Forstwirt 
+Master Forester 
+4+ 
+E 
+Private Forest
+Include the "2 Wood" (2 Holz) Action card from the 3-player game as an additional forest. At the start of each round, place 2 wood on the card. Any player who uses this action must pay you 2 food.
+
+Gartenarbeiter 
+Undergardener 
+4+ 
+E 
+Day Labourer: +1 Vegetable
+Whenever you use the "Day Labourer" (Tagelohner) Action space, also take 1 vegetable.
+
+Gaukler 
+Conjurer 
+4+ 
+E 
+Travelling Players: +1 Grain
+Whenever you use the "Travelling Players" (Kleinkunst) action on an Action space, take 1 additional grain.
+
+Geschichtenerzahler
+Storyteller 
+4+ 
+E 
+Travelling Players: 1 Vegetable instead of 1 Food.
+Whenever you use the "Travelling Players" (Kleinkunst) action on an Action space, you can leave 1 food on the space and take 1 vegetable instead.
+
+Huttenbauer 
+Hut Builder 
+4+ 
+E 
+Free Room for Wooden or Clay Hut
+Play this card during Round 1-4 and at the start of Round 11 you can extend your hut by 1 room at no cost, as long as you have not turned it into a stone house.
+
+Kleingartner 
+Hobby Farmer 
+4+ 
+E 
+1 Vegetable
+Take 1 vegetable when you play this card
+
+Koch 
+Cook 
+4+ 
+E 
+Offspring: only 1 Food
+In the Feeding phase of each Harvest, only 2 of your people eat 2 food each; any others are satisfied with only 1.
+
+Korbflechter 
+Basket Weaver 
+4+ 
+E 
+Harvest: 3 Food from 1 Reeds
+In each Harvest, the Basket Weaver can convert up to 1 reeds to 3 food.
+
+Lehmbrenner 
+Clay Firer 
+4+ 
+E 
+Convert Clay to Stone
+You can use the Clay Firer at any time to convert 2 (3) clay to 1 (2) stone.
+
+Lehmhandler 
+Clay Seller 
+4+ 
+E 
+Convert Clay to Animals, Reeds or Stone
+You can use the Clay Seller at any time to convert 2 clay to 1 sheep or 1 reeds, 3 clay to 1 wild boar or 1 stone and/or 4 clay to 1 cattle.
+
+Mazen 
+Patron 
+4+ 
+E 
+Further Occupations: +2 Food
+In future, whenever you play an occupation, take 2 food before you pay the costs of the occupation.
+
+Pfarrer 
+Pastor 
+4+ 
+E 
+Last with only 2 Rooms: Donation
+If, when you play this card or later in the game, you are the last player to only have 2 rooms in your home, you receive 3 Wood, 2 Clay, 1 Reeds and 1 Stone.
+
+Rinderflusterer 
+Cattle Whisperer
+4+ 
+E 
+Up to 2 Cattle
+Add 5 and 9 to the current round. Place 1 cattle on the corresponding Round spaces. At the start of these rounds, take the cattle. 
+
+Schafer 
+Shepherd 
+4+ 
+E 
+2 Lambs from Breeding
+During each Harvest, if you have at least 4 sheep during the Breeding phase, take 2 lambs instead of 1 as long as you have room for them.
+
+Schafmeister 
+Master Shepherd
+4+ 
+E 
+1 Sheep for 3 Rounds
+Place 1 sheep on each of the next 3 Round spaces. At the start of these rounds, take the sheep.
+
+Schweinehirt 
+Swineherd 
+4+ 
+E 
+Wild boar: +1 Wild boar
+Whenever you use the "Wild boar" (Wildschwein) Action space, you receive 1 additional wild boar from the supply. (The "Wild boar" Action space is added in Round 8 or 9.)
+
+Tanzer 
+Dancer 
+4+ 
+E 
+Travelling Players: min. 4 Food
+Whenever you use the "Travelling Players" (Kleinkunst) action on an Action space, you receive at least 4 Food, even if only 1 to 3 Food are on the space.
+
+Tierpfleger 
+Stockman 
+4+ 
+E 
+Stable: +1 Animal
+Take 1 cattle when you build your second stable, 1 wild boar when you build your third and 1 sheep when you build your fourth. (If you build several stables at once, you may be entitled to take several animals as well.)
+
+Viehpachter 
+Tenant Farmer 
+4+ 
+E 
+Borrow 3 Animals
+You immediately receive a loan of one of each type of animal. Before scoring, return the 3 animals. For each animal that you cannot or do not want to return, deduct 1 point.
+
+Viehwarter 
+Animal Keeper 
+4+ 
+E 
+Animals in the same Pasture
+You can keep sheep, wild boar and cattle in the same pasture. This applies to all your pastures (except the Forest pasture (Waldweide)).
+
