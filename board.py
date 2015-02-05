@@ -17,15 +17,24 @@ class Square:
         self.type = SquareType.empty
         self.value = 0
         self.capacity = 0
+        self.neighbors = []
     def changeType(self, squareType):
         self.type = squareType
     def changeValue(self, value):
         self.value = value
     def changeCapacity(self, newCap):
         self.capacity = newCap
+    def addNeighbors(self, neighbors):
+        self.neighbors += neighbors
 
 class Board:
     def __init__(self):
-        self.board = [[Square() for x in range(5)] for y in range(3)]
-        self.fences = []
-
+        self.board = [[Square() for y in range(3)] for x in range(5)]
+        for x in range(5):
+            for y in range(3):
+                for a in [-1, 1]:
+                    for b in [-1, 1]:
+                        try: 
+                            self.board[x][y].addNeighbors([self.board[x + a][y + b]])
+                        except IndexError:
+                            continue
