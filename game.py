@@ -19,7 +19,7 @@ class Game:
         self.shuffle(self.roundCards)
 
         #accumulating spaces
-        self.3wood = []
+        self.3wood = [("wood", 0)]
         self.clay = []
         self.reed = []
         self.fishing = []
@@ -47,26 +47,31 @@ class Game:
     
     #action spaces
     def build(self, player, numRooms, numStables):
-        wood = 0
+        resources = [(player.wood, 0), (player.clay, 0), (player.stone, 0), (player.reed, 0)]
         #check material of player's home
         roomType = player.board[0][2].type 
         if roomType == SquareType.woodenRoom:
-            wood += 5 * numRooms
+            resources[0][1] += 5 * numRooms
         elif roomType == SquareType.clayRoom:
-            clay = 5 * numRooms
+            resources[1][1] += 5 * numRooms
         else:
-            stone = 5 * numRooms
+            resources[2][1] += 5 * numRooms
         #reed cost
-        reed = 2 * numRooms
+        resources[3][1] += 2 * numRooms
         #stable cost
-        wood += 2 * numStables
+        resources[0][1] += 2 * numStables
 
         #apply effects
         
-        #create tuplist
 
         #check & subtract
-        #if checkSubtract(tupList) != 1:
+        if checkSubtract(tupList) == 1:
+            raise MyError
     def startingPlayer(self, player):
+        #change starting player
+        while self.players[0] != player:
+            self.players.append(self.players.pop([0]))
+
+        #play minor improvement
 
 test = Game(1, "e")
