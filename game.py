@@ -19,7 +19,7 @@ class Game:
         self.shuffle(self.roundCards)
 
         #accumulating spaces
-        self.3wood = [("wood", 0)]
+        self.wood = [("wood", 0)]
         self.clay = []
         self.reed = []
         self.fishing = []
@@ -33,8 +33,8 @@ class Game:
         for x in roundCards:
             shuffle(x)
 
-    def loadOccs(self): #TODO
-    def loadMajors(self): #TODO
+    #def loadOccs(self): #TODO
+    #def loadMajors(self): #TODO
 
     def checkSubtract(self, *args):
         #check
@@ -60,7 +60,6 @@ class Game:
         resources[3][1] += 2 * numRooms
         #stable cost
         resources[0][1] += 2 * numStables
-
         #apply effects
         
 
@@ -71,7 +70,7 @@ class Game:
         #change starting player
         while self.players[0] != player:
             self.players.append(self.players.pop([0]))
-
         #play minor improvement
-
-test = Game(1, "e")
+    #def playImprovement(self, player, major = False):
+        #for x in 
+#test = Game(1, "e")

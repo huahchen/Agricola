@@ -15,5 +15,7 @@ class Player:
         self.points = 0
         self.person = 2
         self.availStable = 4
-        self.availFences = 15 
+        self.availFences = 15
+        self.minors = []
+        self.occs = []
         self.board = Board()
