@@ -12,7 +12,9 @@ class Game:
 
         #occs and improvements
         self.deck = deck
-        self.loadMajors()
+        
+        self.improvements = []
+        self.loadCards(self.deck)
 
         #round cards
         self.roundCards = [["1Sow/Bake", "1Sheep", "1Major", "1Fence"], ["2Reno", "2Growth", "2Stone"], ["3Boar", "3Vegetable"], ["4Cattle", "4Stone"], ["5Plow/Sow", "5Growth"], ["6Reno"]]
@@ -28,6 +30,10 @@ class Game:
         self.cattle = []
         self.stoneR2 = []
         self.stoneR6 = []
+
+    def loadCards(deck):
+        # process
+
 
     def shuffle(self, roundCards):
         for x in roundCards:

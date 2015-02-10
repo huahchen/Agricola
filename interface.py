@@ -1,10 +1,32 @@
 from game import Game
 from tkinter import *
 
-def processNewGame(window):
+def processNewGame(window, e, i, k, players):
     window.destroy()
+    if e.get() + i.get() + k.get() == 0:
+        popup = Toplevel()
+        error = Label(popup, text = "Must choose at least 1 deck")
+        error.pack()
+        ok = Button(popup, text = "OK", command = lambda: newGameMenu(popup))
+        ok.pack()
+    # Create deck strings
+    numPlayers = ["", "1"]
+    if (players.get() >= 3):
+        numPlayers.append("3")
+        if (players.get() >= 4):
+            numPlayers.append("4")
+    decks = []
+    for x in [(e.get(), "E"), (i.get(), "I"), (k.get(), "K")]:
+        if x[0]:
+            decks += [x[1]]
+    # cross lists
+    crossDecks = [x + y for x in numPlayers for y in decks]
+    print(crossDecks)
+    game = Game(players.get(), crossDecks)  
 
-def newGameMenu():
+def newGameMenu(window = None):
+    if window != None:
+        window.destroy()
     popup = Toplevel()
     players = IntVar()
     players.set(1)
@@ -19,7 +41,7 @@ def newGameMenu():
     e.pack()
     i.pack()
     k.pack()
-    finished = Button(popup, text = "OK", command = lambda: processNewGame(popup))
+    finished = Button(popup, text = "OK", command = lambda: processNewGame(popup, eEnabled, iEnabled, kEnabled, players))
     finished.pack()
 
 master = Tk()
