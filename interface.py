@@ -1,6 +1,10 @@
 from game import Game
 from tkinter import *
 
+def gameBoard(window, game):
+    window.destroy()
+    gameBoard = Toplevel()
+
 def processNewGame(window, e, i, k, players):
     window.destroy()
     if e.get() + i.get() + k.get() == 0:
@@ -21,8 +25,15 @@ def processNewGame(window, e, i, k, players):
             decks += [x[1]]
     # cross lists
     crossDecks = [x + y for x in numPlayers for y in decks]
-    print(crossDecks)
-    game = Game(players.get(), crossDecks)  
+    game = Game(players.get(), crossDecks) 
+    
+    preGameMenu = Toplevel()
+    dealOccs = Button(preGameMenu, text = "Deal Occupations", command = game.dealOccs())
+    dealOccs.pack()
+    dealMinors = Button(preGameMenu, text = "Deal Minors", command = game.dealMinors())
+    dealMinors.pack()
+    startGame = Button(preGameMenu, text = "Start Game", command = lambda: gameBoard(preGameMenu, game))
+    startGame.pack()
 
 def newGameMenu(window = None):
     if window != None:

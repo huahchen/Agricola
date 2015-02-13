@@ -465,4 +465,3 @@ E
 
 Plough 3 Fields, Once
 Once during the game, when you use either the "Plough Fields" (Acker pflugen) or "Plough Fields and Sow" (Acker pflugen und Aussaen) action, you can plough 3 fields instead of 1.
-

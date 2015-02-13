@@ -1,6 +1,8 @@
 from random import shuffle
 from board import *
 from player import Player
+from occupation import Occupation
+from improvement import Improvement
 
 class Game:
     def __init__(self, numPlayers, deck):
@@ -13,12 +15,14 @@ class Game:
         #occs and improvements
         self.deck = deck
         
-        self.improvements = []
+        self.majors = []
+        self.minors = []
+        self.occs = []
         self.loadCards(self.deck)
 
         #round cards
         self.roundCards = [["1Sow/Bake", "1Sheep", "1Major", "1Fence"], ["2Reno", "2Growth", "2Stone"], ["3Boar", "3Vegetable"], ["4Cattle", "4Stone"], ["5Plow/Sow", "5Growth"], ["6Reno"]]
-        self.shuffle(self.roundCards)
+        self.shuffleRoundCards()
 
         #accumulating spaces
         self.wood = [("wood", 0)]
@@ -31,16 +35,51 @@ class Game:
         self.stoneR2 = []
         self.stoneR6 = []
 
-    def loadCards(deck):
-        # process
+        #effects dict
+        self.effects = {}
 
-
-    def shuffle(self, roundCards):
-        for x in roundCards:
+    def loadCards(self, deck):
+        for x in deck:
+            if x[0].isdigit():
+                # occ
+                f = open(x + ".txt", "r")
+                line = "start"
+                while (line != ""):
+                    german = f.readline()
+                    english = f.readline()
+                    numPlayer = f.readline()
+                    deck = f.readline()
+                    concise = f.readline()
+                    description = f.readline()
+                    line = f.readline()
+                    self.occs.append(Occupation(english, concise, description))
+                f.close()
+            else:
+                f = open(x + ".txt", "r")
+                line = "start"
+                while (line != ""):
+                    german = f.readline()
+                    english = f.readline()
+                    deck = f.readline()
+                    prereq = f.readline()
+                    cost = f.readline()
+                    vp = f.readline()
+                    concise = f.readline()
+                    description = f.readline()
+                    line = f.readline()
+                    self.minors.append(Improvement(english, prereq, cost, vp, concise, description))
+                f.close()
+    def shuffleRoundCards(self):
+        for x in self.roundCards:
             shuffle(x)
-
-    #def loadOccs(self): #TODO
-    #def loadMajors(self): #TODO
+    def dealOccs(self):
+        shuffle(self.occs)
+        for x in range(len(self.players)):
+            self.players[x].occs.append(self.occs[x * 7:(x + 1)* 7])
+    def dealMinors(self):
+        shuffle(self.occs)
+        for x in range(len(self.players)):
+            self.players[x].minors.append(self.minors[x * 7:(x + 1)* 7])
 
     def checkSubtract(self, *args):
         #check
@@ -77,6 +116,6 @@ class Game:
         while self.players[0] != player:
             self.players.append(self.players.pop([0]))
         #play minor improvement
-    #def playImprovement(self, player, major = False):
-        #for x in 
-#test = Game(1, "e")
+    #def playImprovement(self, player, improvement, major = False):
+    def dayLaborer(self, player):
+        player.food += 2
